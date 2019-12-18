@@ -1,0 +1,20 @@
+998	2008,"Amazonas","Setembro",998,2008-01-01
+995	2012,"Ceara","Novembro",995,2012-01-01
+995	2006,"Bahia","Agosto",995,2006-01-01
+982	1999,"Par�","Julho",982,1999-01-01
+979	2009,"Mato Grosso","Junho",979,2009-01-01
+979	2001,"Bahia","Agosto",979,2001-01-01
+974	2011,"Mato Grosso","Junho",974,2011-01-01
+973	2009,"Amazonas","Novembro",973,2009-01-01
+972	2009,"Maranhao","Julho",972,2009-01-01
+971	2008,"Par�","Julho",971,2008-01-01
+989	2009,"Tocantins","Julho",989,2009-01-01
+987	2017,"Paraiba","Agosto",987,2017-01-01
+982	2007,"Tocantins","Julho",982,2007-01-01
+981	2017,"Sao Paulo","Agosto",981,2017-01-01
+977	2003,"Sao Paulo","Setembro",977,2003-01-01
+976	2002,"Tocantins","Julho",976,2002-01-01
+969	2016,"Rondonia","Julho",969,2016-01-01
+960	2007,"Paraiba","Setembro",960,2007-01-01
+943	2005,"Piau","Agosto",943,2005-01-01
+939	2007,"Piau","Novembro",939,2007-01-01

@@ -1,0 +1,3101 @@
+2004,"Paraiba","Janeiro",33,2004-01-01
+2005,"Paraiba","Janeiro",178,2005-01-01
+2006,"Paraiba","Janeiro",83,2006-01-01
+2007,"Paraiba","Janeiro",69,2007-01-01
+2008,"Paraiba","Janeiro",77,2008-01-01
+2009,"Paraiba","Janeiro",115,2009-01-01
+2010,"Paraiba","Janeiro",46,2010-01-01
+2011,"Paraiba","Janeiro",11,2011-01-01
+2012,"Paraiba","Janeiro",61,2012-01-01
+2013,"Paraiba","Janeiro",38,2013-01-01
+2014,"Paraiba","Janeiro",75,2014-01-01
+2015,"Paraiba","Janeiro",42,2015-01-01
+2016,"Paraiba","Janeiro",18,2016-01-01
+2017,"Paraiba","Janeiro",23,2017-01-01
+1998,"Paraiba","Fevereiro",0,1998-01-01
+1999,"Paraiba","Fevereiro",2,1999-01-01
+2000,"Paraiba","Fevereiro",11,2000-01-01
+2001,"Paraiba","Fevereiro",6,2001-01-01
+2002,"Paraiba","Fevereiro",18,2002-01-01
+2003,"Paraiba","Fevereiro",3,2003-01-01
+2004,"Paraiba","Fevereiro",3,2004-01-01
+2005,"Paraiba","Fevereiro",15,2005-01-01
+2006,"Paraiba","Fevereiro",7,2006-01-01
+2007,"Paraiba","Fevereiro",7,2007-01-01
+2008,"Paraiba","Fevereiro",20,2008-01-01
+2009,"Paraiba","Fevereiro",9,2009-01-01
+2010,"Paraiba","Fevereiro",15,2010-01-01
+2011,"Paraiba","Fevereiro",5,2011-01-01
+2012,"Paraiba","Fevereiro",15,2012-01-01
+2013,"Paraiba","Fevereiro",9,2013-01-01
+2014,"Paraiba","Fevereiro",6,2014-01-01
+2015,"Paraiba","Fevereiro",15,2015-01-01
+2016,"Paraiba","Fevereiro",4,2016-01-01
+2017,"Paraiba","Fevereiro",8,2017-01-01
+1998,"Paraiba","Mar�o",0,1998-01-01
+1999,"Paraiba","Mar�o",1,1999-01-01
+2000,"Paraiba","Mar�o",5,2000-01-01
+2001,"Paraiba","Mar�o",0,2001-01-01
+2002,"Paraiba","Mar�o",3,2002-01-01
+2003,"Paraiba","Mar�o",0,2003-01-01
+2004,"Paraiba","Mar�o",3,2004-01-01
+2005,"Paraiba","Mar�o",13,2005-01-01
+2006,"Paraiba","Mar�o",4,2006-01-01
+2007,"Paraiba","Mar�o",1,2007-01-01
+2008,"Paraiba","Mar�o",8,2008-01-01
+2009,"Paraiba","Mar�o",2,2009-01-01
+2010,"Paraiba","Mar�o",16,2010-01-01
+2011,"Paraiba","Mar�o",6,2011-01-01
+2012,"Paraiba","Mar�o",4,2012-01-01
+2013,"Paraiba","Mar�o",3,2013-01-01
+2014,"Paraiba","Mar�o",18,2014-01-01
+2015,"Paraiba","Mar�o",7,2015-01-01
+2016,"Paraiba","Mar�o",1,2016-01-01
+2017,"Paraiba","Mar�o",2,2017-01-01
+1998,"Paraiba","Abril",0,1998-01-01
+1999,"Paraiba","Abril",3,1999-01-01
+2000,"Paraiba","Abril",1,2000-01-01
+2001,"Paraiba","Abril",0,2001-01-01
+2002,"Paraiba","Abril",1,2002-01-01
+2003,"Paraiba","Abril",0,2003-01-01
+2004,"Paraiba","Abril",3,2004-01-01
+2005,"Paraiba","Abril",2,2005-01-01
+2006,"Paraiba","Abril",0,2006-01-01
+2007,"Paraiba","Abril",0,2007-01-01
+2008,"Paraiba","Abril",0,2008-01-01
+2009,"Paraiba","Abril",1,2009-01-01
+2010,"Paraiba","Abril",2,2010-01-01
+2011,"Paraiba","Abril",2,2011-01-01
+2012,"Paraiba","Abril",13,2012-01-01
+2013,"Paraiba","Abril",6,2013-01-01
+2014,"Paraiba","Abril",8,2014-01-01
+2015,"Paraiba","Abril",11,2015-01-01
+2016,"Paraiba","Abril",1,2016-01-01
+2017,"Paraiba","Abril",1,2017-01-01
+1998,"Paraiba","Maio",0,1998-01-01
+1999,"Paraiba","Maio",0,1999-01-01
+2000,"Paraiba","Maio",0,2000-01-01
+2001,"Paraiba","Maio",4,2001-01-01
+2002,"Paraiba","Maio",1,2002-01-01
+2003,"Paraiba","Maio",0,2003-01-01
+2004,"Paraiba","Maio",1,2004-01-01
+2005,"Paraiba","Maio",0,2005-01-01
+2006,"Paraiba","Maio",0,2006-01-01
+2007,"Paraiba","Maio",0,2007-01-01
+2008,"Paraiba","Maio",0,2008-01-01
+2009,"Paraiba","Maio",0,2009-01-01
+2010,"Paraiba","Maio",10,2010-01-01
+2011,"Paraiba","Maio",0,2011-01-01
+2012,"Paraiba","Maio",10,2012-01-01
+2013,"Paraiba","Maio",3,2013-01-01
+2014,"Paraiba","Maio",1,2014-01-01
+2015,"Paraiba","Maio",6,2015-01-01
+2016,"Paraiba","Maio",1,2016-01-01
+2017,"Paraiba","Maio",1,2017-01-01
+1998,"Paraiba","Junho",3,1998-01-01
+1999,"Paraiba","Junho",1,1999-01-01
+2000,"Paraiba","Junho",2,2000-01-01
+2001,"Paraiba","Junho",0,2001-01-01
+2002,"Paraiba","Junho",1,2002-01-01
+2003,"Paraiba","Junho",0,2003-01-01
+2004,"Paraiba","Junho",0,2004-01-01
+2005,"Paraiba","Junho",0,2005-01-01
+2006,"Paraiba","Junho",0,2006-01-01
+2007,"Paraiba","Junho",0,2007-01-01
+2008,"Paraiba","Junho",0,2008-01-01
+2009,"Paraiba","Junho",0,2009-01-01
+2010,"Paraiba","Junho",3,2010-01-01
+2011,"Paraiba","Junho",2,2011-01-01
+2012,"Paraiba","Junho",5,2012-01-01
+2013,"Paraiba","Junho",3,2013-01-01
+2014,"Paraiba","Junho",1,2014-01-01
+2015,"Paraiba","Junho",0,2015-01-01
+2016,"Paraiba","Junho",4,2016-01-01
+2017,"Paraiba","Junho",0,2017-01-01
+1998,"Paraiba","Julho",0,1998-01-01
+1999,"Paraiba","Julho",1,1999-01-01
+2000,"Paraiba","Julho",0,2000-01-01
+2001,"Paraiba","Julho",8,2001-01-01
+2002,"Paraiba","Julho",8,2002-01-01
+2003,"Paraiba","Julho",6,2003-01-01
+2004,"Paraiba","Julho",1,2004-01-01
+2005,"Paraiba","Julho",0,2005-01-01
+2006,"Paraiba","Julho",1,2006-01-01
+2007,"Paraiba","Julho",1,2007-01-01
+2008,"Paraiba","Julho",0,2008-01-01
+2009,"Paraiba","Julho",3,2009-01-01
+2010,"Paraiba","Julho",7,2010-01-01
+2011,"Paraiba","Julho",6,2011-01-01
+2012,"Paraiba","Julho",5,2012-01-01
+2013,"Paraiba","Julho",1,2013-01-01
+2014,"Paraiba","Julho",9,2014-01-01
+2015,"Paraiba","Julho",3,2015-01-01
+2016,"Paraiba","Julho",22,2016-01-01
+2017,"Paraiba","Julho",2,2017-01-01
+1998,"Paraiba","Agosto",3,1998-01-01
+1999,"Paraiba","Agosto",4,1999-01-01
+2000,"Paraiba","Agosto",7,2000-01-01
+2001,"Paraiba","Agosto",34,2001-01-01
+2002,"Paraiba","Agosto",38,2002-01-01
+2003,"Paraiba","Agosto",14,2003-01-01
+2004,"Paraiba","Agosto",18,2004-01-01
+2005,"Paraiba","Agosto",0,2005-01-01
+2006,"Paraiba","Agosto",3,2006-01-01
+2007,"Paraiba","Agosto",8,2007-01-01
+2008,"Paraiba","Agosto",1,2008-01-01
+2009,"Paraiba","Agosto",4,2009-01-01
+2010,"Paraiba","Agosto",9,2010-01-01
+2011,"Paraiba","Agosto",12,2011-01-01
+2012,"Paraiba","Agosto",13,2012-01-01
+2013,"Paraiba","Agosto",3,2013-01-01
+2014,"Paraiba","Agosto",30,2014-01-01
+2015,"Paraiba","Agosto",5,2015-01-01
+2016,"Paraiba","Agosto",50,2016-01-01
+2017,"Paraiba","Agosto",3,2017-01-01
+1998,"Paraiba","Setembro",50,1998-01-01
+1999,"Paraiba","Setembro",14,1999-01-01
+2000,"Paraiba","Setembro",9,2000-01-01
+2001,"Paraiba","Setembro",98,2001-01-01
+2002,"Paraiba","Setembro",63,2002-01-01
+2003,"Paraiba","Setembro",81,2003-01-01
+2004,"Paraiba","Setembro",34,2004-01-01
+2005,"Paraiba","Setembro",13,2005-01-01
+2006,"Paraiba","Setembro",27,2006-01-01
+2007,"Paraiba","Setembro",22,2007-01-01
+2008,"Paraiba","Setembro",21,2008-01-01
+2009,"Paraiba","Setembro",28,2009-01-01
+2010,"Paraiba","Setembro",37,2010-01-01
+2011,"Paraiba","Setembro",55,2011-01-01
+2012,"Paraiba","Setembro",71,2012-01-01
+2013,"Paraiba","Setembro",25,2013-01-01
+2014,"Paraiba","Setembro",51,2014-01-01
+2015,"Paraiba","Setembro",48,2015-01-01
+2016,"Paraiba","Setembro",131,2016-01-01
+2017,"Paraiba","Setembro",30,2017-01-01
+1998,"Paraiba","Outubro",179,1998-01-01
+1999,"Paraiba","Outubro",48,1999-01-01
+2000,"Paraiba","Outubro",125,2000-01-01
+2001,"Paraiba","Outubro",279,2001-01-01
+2002,"Paraiba","Outubro",193,2002-01-01
+2003,"Paraiba","Outubro",381,2003-01-01
+2004,"Paraiba","Outubro",190,2004-01-01
+2005,"Paraiba","Outubro",155,2005-01-01
+2006,"Paraiba","Outubro",135,2006-01-01
+2007,"Paraiba","Outubro",111,2007-01-01
+2008,"Paraiba","Outubro",80,2008-01-01
+2009,"Paraiba","Outubro",117,2009-01-01
+2010,"Paraiba","Outubro",150,2010-01-01
+2011,"Paraiba","Outubro",200,2011-01-01
+2012,"Paraiba","Outubro",136,2012-01-01
+2013,"Paraiba","Outubro",58,2013-01-01
+2014,"Paraiba","Outubro",70,2014-01-01
+2015,"Paraiba","Outubro",121,2015-01-01
+2016,"Paraiba","Outubro",304,2016-01-01
+2017,"Paraiba","Outubro",123,2017-01-01
+1998,"Paraiba","Novembro",46,1998-01-01
+1999,"Paraiba","Novembro",38,1999-01-01
+2000,"Paraiba","Novembro",65,2000-01-01
+2001,"Paraiba","Novembro",294,2001-01-01
+2002,"Paraiba","Novembro",238,2002-01-01
+2003,"Paraiba","Novembro",538,2003-01-01
+2004,"Paraiba","Novembro",331,2004-01-01
+2005,"Paraiba","Novembro",280,2005-01-01
+2006,"Paraiba","Novembro",215,2006-01-01
+2007,"Paraiba","Novembro",256,2007-01-01
+2008,"Paraiba","Novembro",175,2008-01-01
+2009,"Paraiba","Novembro",428,2009-01-01
+2010,"Paraiba","Novembro",451,2010-01-01
+2011,"Paraiba","Novembro",359,2011-01-01
+2012,"Paraiba","Novembro",130,2012-01-01
+2013,"Paraiba","Novembro",95,2013-01-01
+2014,"Paraiba","Novembro",111,2014-01-01
+2015,"Paraiba","Novembro",206,2015-01-01
+2016,"Paraiba","Novembro",132,2016-01-01
+2017,"Paraiba","Novembro",101,2017-01-01
+1998,"Paraiba","Dezembro",51,1998-01-01
+1999,"Paraiba","Dezembro",40,1999-01-01
+2000,"Paraiba","Dezembro",34,2000-01-01
+2001,"Paraiba","Dezembro",70,2001-01-01
+2002,"Paraiba","Dezembro",163,2002-01-01
+2003,"Paraiba","Dezembro",288,2003-01-01
+2004,"Paraiba","Dezembro",351,2004-01-01
+2005,"Paraiba","Dezembro",159,2005-01-01
+2006,"Paraiba","Dezembro",196,2006-01-01
+2007,"Paraiba","Dezembro",133,2007-01-01
+2008,"Paraiba","Dezembro",187,2008-01-01
+2009,"Paraiba","Dezembro",270,2009-01-01
+2010,"Paraiba","Dezembro",65,2010-01-01
+2011,"Paraiba","Dezembro",179,2011-01-01
+2012,"Paraiba","Dezembro",62,2012-01-01
+2013,"Paraiba","Dezembro",78,2013-01-01
+2014,"Paraiba","Dezembro",62,2014-01-01
+2015,"Paraiba","Dezembro",122,2015-01-01
+2016,"Paraiba","Dezembro",8,2016-01-01
+1998,"Paraiba","Janeiro",0,1998-01-01
+1999,"Paraiba","Janeiro",7,1999-01-01
+2000,"Paraiba","Janeiro",49,2000-01-01
+2001,"Paraiba","Janeiro",32,2001-01-01
+2002,"Paraiba","Janeiro",47,2002-01-01
+2003,"Paraiba","Janeiro",109,2003-01-01
+2004,"Paraiba","Janeiro",88,2004-01-01
+2005,"Paraiba","Janeiro",55,2005-01-01
+2006,"Paraiba","Janeiro",78,2006-01-01
+2007,"Paraiba","Janeiro",11,2007-01-01
+2008,"Paraiba","Janeiro",35,2008-01-01
+2009,"Paraiba","Janeiro",35,2009-01-01
+2010,"Paraiba","Janeiro",18,2010-01-01
+2011,"Paraiba","Janeiro",35,2011-01-01
+2012,"Paraiba","Janeiro",31,2012-01-01
+2013,"Paraiba","Janeiro",28,2013-01-01
+2014,"Paraiba","Janeiro",86,2014-01-01
+2015,"Paraiba","Janeiro",120,2015-01-01
+2016,"Paraiba","Janeiro",113,2016-01-01
+2017,"Paraiba","Janeiro",55,2017-01-01
+1998,"Paraiba","Fevereiro",0,1998-01-01
+1999,"Paraiba","Fevereiro",22,1999-01-01
+2000,"Paraiba","Fevereiro",67,2000-01-01
+2001,"Paraiba","Fevereiro",8,2001-01-01
+2002,"Paraiba","Fevereiro",24,2002-01-01
+2003,"Paraiba","Fevereiro",46,2003-01-01
+2004,"Paraiba","Fevereiro",42,2004-01-01
+2005,"Paraiba","Fevereiro",77,2005-01-01
+2006,"Paraiba","Fevereiro",60,2006-01-01
+2007,"Paraiba","Fevereiro",32,2007-01-01
+2008,"Paraiba","Fevereiro",38,2008-01-01
+2009,"Paraiba","Fevereiro",21,2009-01-01
+2010,"Paraiba","Fevereiro",46,2010-01-01
+2011,"Paraiba","Fevereiro",8,2011-01-01
+2012,"Paraiba","Fevereiro",40,2012-01-01
+2013,"Paraiba","Fevereiro",9,2013-01-01
+2014,"Paraiba","Fevereiro",52,2014-01-01
+2015,"Paraiba","Fevereiro",58,2015-01-01
+2016,"Paraiba","Fevereiro",31,2016-01-01
+2017,"Paraiba","Fevereiro",60,2017-01-01
+1998,"Paraiba","Mar�o",0,1998-01-01
+1999,"Paraiba","Mar�o",40,1999-01-01
+2000,"Paraiba","Mar�o",52,2000-01-01
+2001,"Paraiba","Mar�o",12,2001-01-01
+2002,"Paraiba","Mar�o",18,2002-01-01
+2003,"Paraiba","Mar�o",76,2003-01-01
+2004,"Paraiba","Mar�o",83,2004-01-01
+2005,"Paraiba","Mar�o",84,2005-01-01
+2006,"Paraiba","Mar�o",56,2006-01-01
+2007,"Paraiba","Mar�o",54,2007-01-01
+2008,"Paraiba","Mar�o",43,2008-01-01
+2009,"Paraiba","Mar�o",57,2009-01-01
+2010,"Paraiba","Mar�o",22,2010-01-01
+2011,"Paraiba","Mar�o",21,2011-01-01
+2012,"Paraiba","Mar�o",55,2012-01-01
+2013,"Paraiba","Mar�o",18,2013-01-01
+2014,"Paraiba","Mar�o",42,2014-01-01
+2015,"Paraiba","Mar�o",55,2015-01-01
+2016,"Paraiba","Mar�o",63,2016-01-01
+2017,"Paraiba","Mar�o",43,2017-01-01
+1998,"Paraiba","Abril",0,1998-01-01
+1999,"Paraiba","Abril",39,1999-01-01
+2000,"Paraiba","Abril",51,2000-01-01
+2001,"Paraiba","Abril",43,2001-01-01
+2002,"Paraiba","Abril",84,2002-01-01
+2003,"Paraiba","Abril",130,2003-01-01
+2004,"Paraiba","Abril",68,2004-01-01
+2005,"Paraiba","Abril",22,2005-01-01
+2006,"Paraiba","Abril",49,2006-01-01
+2007,"Paraiba","Abril",14,2007-01-01
+2008,"Paraiba","Abril",62,2008-01-01
+2009,"Paraiba","Abril",80,2009-01-01
+2010,"Paraiba","Abril",71,2010-01-01
+2011,"Paraiba","Abril",38,2011-01-01
+2012,"Paraiba","Abril",38,2012-01-01
+2013,"Paraiba","Abril",72,2013-01-01
+2014,"Paraiba","Abril",38,2014-01-01
+2015,"Paraiba","Abril",83,2015-01-01
+2016,"Paraiba","Abril",167,2016-01-01
+2017,"Paraiba","Abril",77,2017-01-01
+1998,"Paraiba","Maio",0,1998-01-01
+1999,"Paraiba","Maio",57,1999-01-01
+2000,"Paraiba","Maio",43,2000-01-01
+2001,"Paraiba","Maio",26,2001-01-01
+2002,"Paraiba","Maio",65,2002-01-01
+2003,"Paraiba","Maio",115,2003-01-01
+2004,"Paraiba","Maio",9,2004-01-01
+2005,"Paraiba","Maio",125,2005-01-01
+2006,"Paraiba","Maio",90,2006-01-01
+2007,"Paraiba","Maio",14,2007-01-01
+2008,"Paraiba","Maio",41,2008-01-01
+2009,"Paraiba","Maio",117,2009-01-01
+2010,"Paraiba","Maio",39,2010-01-01
+2011,"Paraiba","Maio",97,2011-01-01
+2012,"Paraiba","Maio",86,2012-01-01
+2013,"Paraiba","Maio",85,2013-01-01
+2014,"Paraiba","Maio",109,2014-01-01
+2015,"Paraiba","Maio",77,2015-01-01
+2016,"Paraiba","Maio",72,2016-01-01
+2017,"Paraiba","Maio",49,2017-01-01
+1998,"Paraiba","Junho",36,1998-01-01
+1999,"Paraiba","Junho",31,1999-01-01
+2000,"Paraiba","Junho",53,2000-01-01
+2001,"Paraiba","Junho",43,2001-01-01
+2002,"Paraiba","Junho",115,2002-01-01
+2003,"Paraiba","Junho",159,2003-01-01
+2004,"Paraiba","Junho",147,2004-01-01
+2005,"Paraiba","Junho",114,2005-01-01
+2006,"Paraiba","Junho",62,2006-01-01
+2007,"Paraiba","Junho",57,2007-01-01
+2008,"Paraiba","Junho",17,2008-01-01
+2009,"Paraiba","Junho",105,2009-01-01
+2010,"Paraiba","Junho",55,2010-01-01
+2011,"Paraiba","Junho",162,2011-01-01
+2012,"Paraiba","Junho",77,2012-01-01
+2013,"Paraiba","Junho",52,2013-01-01
+2014,"Paraiba","Junho",112,2014-01-01
+2015,"Paraiba","Junho",201,2015-01-01
+2016,"Paraiba","Junho",238,2016-01-01
+2017,"Paraiba","Junho",169,2017-01-01
+1998,"Paraiba","Julho",59,1998-01-01
+1999,"Paraiba","Julho",94,1999-01-01
+2000,"Paraiba","Julho",98,2000-01-01
+2001,"Paraiba","Julho",122,2001-01-01
+2002,"Paraiba","Julho",172,2002-01-01
+2003,"Paraiba","Julho",101,2003-01-01
+2004,"Paraiba","Julho",148,2004-01-01
+2005,"Paraiba","Julho",155,2005-01-01
+2006,"Paraiba","Julho",139,2006-01-01
+2007,"Paraiba","Julho",60,2007-01-01
+2008,"Paraiba","Julho",87,2008-01-01
+2009,"Paraiba","Julho",34,2009-01-01
+2010,"Paraiba","Julho",196,2010-01-01
+2011,"Paraiba","Julho",262,2011-01-01
+2012,"Paraiba","Julho",111,2012-01-01
+2013,"Paraiba","Julho",168,2013-01-01
+2014,"Paraiba","Julho",215,2014-01-01
+2015,"Paraiba","Julho",137,2015-01-01
+2016,"Paraiba","Julho",504,2016-01-01
+2017,"Paraiba","Julho",891,2017-01-01
+1998,"Paraiba","Agosto",42,1998-01-01
+1999,"Paraiba","Agosto",938,1999-01-01
+2000,"Paraiba","Agosto",849,2000-01-01
+2001,"Paraiba","Agosto",342,2001-01-01
+2002,"Paraiba","Agosto",1.593,2002-01-01
+2003,"Paraiba","Agosto",1.896,2003-01-01
+2004,"Paraiba","Agosto",1.237,2004-01-01
+2005,"Paraiba","Agosto",800,2005-01-01
+2006,"Paraiba","Agosto",844,2006-01-01
+2007,"Paraiba","Agosto",580,2007-01-01
+2008,"Paraiba","Agosto",205,2008-01-01
+2009,"Paraiba","Agosto",844,2009-01-01
+2010,"Paraiba","Agosto",733,2010-01-01
+2011,"Paraiba","Agosto",435,2011-01-01
+2012,"Paraiba","Agosto",522,2012-01-01
+2013,"Paraiba","Agosto",481,2013-01-01
+2014,"Paraiba","Agosto",646,2014-01-01
+2015,"Paraiba","Agosto",651,2015-01-01
+2016,"Paraiba","Agosto",1.01,2016-01-01
+2017,"Paraiba","Agosto",987,2017-01-01
+1998,"Paraiba","Setembro",61,1998-01-01
+1999,"Paraiba","Setembro",878,1999-01-01
+2000,"Paraiba","Setembro",381,2000-01-01
+2001,"Paraiba","Setembro",258,2001-01-01
+2002,"Paraiba","Setembro",1.071,2002-01-01
+2003,"Paraiba","Setembro",2.446,2003-01-01
+2004,"Paraiba","Setembro",1.36,2004-01-01
+2005,"Paraiba","Setembro",386,2005-01-01
+2006,"Paraiba","Setembro",866,2006-01-01
+2007,"Paraiba","Setembro",960,2007-01-01
+2008,"Paraiba","Setembro",413,2008-01-01
+2009,"Paraiba","Setembro",149,2009-01-01
+2010,"Paraiba","Setembro",270,2010-01-01
+2011,"Paraiba","Setembro",913,2011-01-01
+2012,"Paraiba","Setembro",459,2012-01-01
+2013,"Paraiba","Setembro",476,2013-01-01
+2014,"Paraiba","Setembro",443,2014-01-01
+2015,"Paraiba","Setembro",599,2015-01-01
+2016,"Paraiba","Setembro",1.371,2016-01-01
+2017,"Paraiba","Setembro",1.706,2017-01-01
+1998,"Paraiba","Outubro",61,1998-01-01
+1999,"Paraiba","Outubro",452,1999-01-01
+2000,"Paraiba","Outubro",658,2000-01-01
+2001,"Paraiba","Outubro",209,2001-01-01
+2002,"Paraiba","Outubro",399,2002-01-01
+2003,"Paraiba","Outubro",1.228,2003-01-01
+2004,"Paraiba","Outubro",666,2004-01-01
+2005,"Paraiba","Outubro",157,2005-01-01
+2006,"Paraiba","Outubro",327,2006-01-01
+2007,"Paraiba","Outubro",194,2007-01-01
+2008,"Paraiba","Outubro",78,2008-01-01
+2009,"Paraiba","Outubro",424,2009-01-01
+2010,"Paraiba","Outubro",230,2010-01-01
+2011,"Paraiba","Outubro",256,2011-01-01
+2012,"Paraiba","Outubro",145,2012-01-01
+2013,"Paraiba","Outubro",233,2013-01-01
+2014,"Paraiba","Outubro",411,2014-01-01
+2015,"Paraiba","Outubro",158,2015-01-01
+2016,"Paraiba","Outubro",193,2016-01-01
+2017,"Paraiba","Outubro",134,2017-01-01
+1998,"Paraiba","Novembro",143,1998-01-01
+1999,"Paraiba","Novembro",447,1999-01-01
+2000,"Paraiba","Novembro",85,2000-01-01
+2001,"Paraiba","Novembro",89,2001-01-01
+2002,"Paraiba","Novembro",425,2002-01-01
+2003,"Paraiba","Novembro",503,2003-01-01
+2004,"Paraiba","Novembro",388,2004-01-01
+2005,"Paraiba","Novembro",597,2005-01-01
+2006,"Paraiba","Novembro",60,2006-01-01
+2007,"Paraiba","Novembro",59,2007-01-01
+2008,"Paraiba","Novembro",39,2008-01-01
+2009,"Paraiba","Novembro",90,2009-01-01
+2010,"Paraiba","Novembro",183,2010-01-01
+2011,"Paraiba","Novembro",138,2011-01-01
+2012,"Paraiba","Novembro",142,2012-01-01
+2013,"Paraiba","Novembro",126,2013-01-01
+2014,"Paraiba","Novembro",68,2014-01-01
+2015,"Paraiba","Novembro",18,2015-01-01
+2016,"Paraiba","Novembro",275,2016-01-01
+2017,"Paraiba","Novembro",292,2017-01-01
+1998,"Paraiba","Dezembro",82,1998-01-01
+1999,"Paraiba","Dezembro",254,1999-01-01
+2000,"Paraiba","Dezembro",159,2000-01-01
+2001,"Paraiba","Dezembro",85,2001-01-01
+2002,"Paraiba","Dezembro",165,2002-01-01
+2003,"Paraiba","Dezembro",171,2003-01-01
+2004,"Paraiba","Dezembro",151,2004-01-01
+2005,"Paraiba","Dezembro",40,2005-01-01
+2006,"Paraiba","Dezembro",6,2006-01-01
+2007,"Paraiba","Dezembro",22,2007-01-01
+2008,"Paraiba","Dezembro",62,2008-01-01
+2009,"Paraiba","Dezembro",30,2009-01-01
+2010,"Paraiba","Dezembro",37,2010-01-01
+2011,"Paraiba","Dezembro",78,2011-01-01
+2012,"Paraiba","Dezembro",54,2012-01-01
+2013,"Paraiba","Dezembro",155,2013-01-01
+2014,"Paraiba","Dezembro",78,2014-01-01
+2015,"Paraiba","Dezembro",30,2015-01-01
+2016,"Paraiba","Dezembro",45,2016-01-01
+1998,"Pernambuco","Janeiro",0,1998-01-01
+1999,"Pernambuco","Janeiro",102,1999-01-01
+2000,"Pernambuco","Janeiro",3,2000-01-01
+2001,"Pernambuco","Janeiro",7,2001-01-01
+2002,"Pernambuco","Janeiro",10,2002-01-01
+2003,"Pernambuco","Janeiro",188,2003-01-01
+2004,"Pernambuco","Janeiro",29,2004-01-01
+2005,"Pernambuco","Janeiro",221,2005-01-01
+2006,"Pernambuco","Janeiro",148,2006-01-01
+2007,"Pernambuco","Janeiro",156,2007-01-01
+2008,"Pernambuco","Janeiro",170,2008-01-01
+2009,"Pernambuco","Janeiro",256,2009-01-01
+2010,"Pernambuco","Janeiro",47,2010-01-01
+2011,"Pernambuco","Janeiro",49,2011-01-01
+2012,"Pernambuco","Janeiro",146,2012-01-01
+2013,"Pernambuco","Janeiro",55,2013-01-01
+2014,"Pernambuco","Janeiro",99,2014-01-01
+2015,"Pernambuco","Janeiro",109,2015-01-01
+2016,"Pernambuco","Janeiro",24,2016-01-01
+2017,"Pernambuco","Janeiro",52,2017-01-01
+1998,"Pernambuco","Fevereiro",0,1998-01-01
+1999,"Pernambuco","Fevereiro",13,1999-01-01
+2000,"Pernambuco","Fevereiro",4,2000-01-01
+2001,"Pernambuco","Fevereiro",2,2001-01-01
+2002,"Pernambuco","Fevereiro",19,2002-01-01
+2003,"Pernambuco","Fevereiro",35,2003-01-01
+2004,"Pernambuco","Fevereiro",8,2004-01-01
+2005,"Pernambuco","Fevereiro",33,2005-01-01
+2006,"Pernambuco","Fevereiro",41,2006-01-01
+2007,"Pernambuco","Fevereiro",21,2007-01-01
+2008,"Pernambuco","Fevereiro",48,2008-01-01
+2009,"Pernambuco","Fevereiro",28,2009-01-01
+2010,"Pernambuco","Fevereiro",33,2010-01-01
+2011,"Pernambuco","Fevereiro",25,2011-01-01
+2012,"Pernambuco","Fevereiro",64,2012-01-01
+2013,"Pernambuco","Fevereiro",29,2013-01-01
+2014,"Pernambuco","Fevereiro",25,2014-01-01
+2015,"Pernambuco","Fevereiro",55,2015-01-01
+2016,"Pernambuco","Fevereiro",19,2016-01-01
+2017,"Pernambuco","Fevereiro",23,2017-01-01
+1998,"Pernambuco","Mar�o",0,1998-01-01
+1999,"Pernambuco","Mar�o",27,1999-01-01
+2000,"Pernambuco","Mar�o",14,2000-01-01
+2001,"Pernambuco","Mar�o",0,2001-01-01
+2002,"Pernambuco","Mar�o",24,2002-01-01
+2003,"Pernambuco","Mar�o",9,2003-01-01
+2004,"Pernambuco","Mar�o",6,2004-01-01
+2005,"Pernambuco","Mar�o",45,2005-01-01
+2006,"Pernambuco","Mar�o",18,2006-01-01
+2007,"Pernambuco","Mar�o",4,2007-01-01
+2008,"Pernambuco","Mar�o",32,2008-01-01
+2009,"Pernambuco","Mar�o",15,2009-01-01
+2010,"Pernambuco","Mar�o",59,2010-01-01
+2011,"Pernambuco","Mar�o",39,2011-01-01
+2012,"Pernambuco","Mar�o",44,2012-01-01
+2013,"Pernambuco","Mar�o",40,2013-01-01
+2014,"Pernambuco","Mar�o",36,2014-01-01
+2015,"Pernambuco","Mar�o",33,2015-01-01
+2016,"Pernambuco","Mar�o",4,2016-01-01
+2017,"Pernambuco","Mar�o",7,2017-01-01
+1998,"Pernambuco","Abril",0,1998-01-01
+1999,"Pernambuco","Abril",2,1999-01-01
+2000,"Pernambuco","Abril",1,2000-01-01
+2001,"Pernambuco","Abril",2,2001-01-01
+2002,"Pernambuco","Abril",5,2002-01-01
+2003,"Pernambuco","Abril",7,2003-01-01
+2004,"Pernambuco","Abril",5,2004-01-01
+2005,"Pernambuco","Abril",1,2005-01-01
+2006,"Pernambuco","Abril",2,2006-01-01
+2007,"Pernambuco","Abril",1,2007-01-01
+2008,"Pernambuco","Abril",5,2008-01-01
+2009,"Pernambuco","Abril",3,2009-01-01
+2010,"Pernambuco","Abril",2,2010-01-01
+2011,"Pernambuco","Abril",22,2011-01-01
+2012,"Pernambuco","Abril",46,2012-01-01
+2013,"Pernambuco","Abril",11,2013-01-01
+2014,"Pernambuco","Abril",10,2014-01-01
+2015,"Pernambuco","Abril",30,2015-01-01
+2016,"Pernambuco","Abril",8,2016-01-01
+2017,"Pernambuco","Abril",9,2017-01-01
+1998,"Pernambuco","Maio",0,1998-01-01
+1999,"Pernambuco","Maio",6,1999-01-01
+2000,"Pernambuco","Maio",7,2000-01-01
+2001,"Pernambuco","Maio",5,2001-01-01
+2002,"Pernambuco","Maio",13,2002-01-01
+2003,"Pernambuco","Maio",1,2003-01-01
+2004,"Pernambuco","Maio",2,2004-01-01
+2005,"Pernambuco","Maio",1,2005-01-01
+2006,"Pernambuco","Maio",1,2006-01-01
+2007,"Pernambuco","Maio",0,2007-01-01
+2008,"Pernambuco","Maio",0,2008-01-01
+2009,"Pernambuco","Maio",0,2009-01-01
+2010,"Pernambuco","Maio",8,2010-01-01
+2011,"Pernambuco","Maio",1,2011-01-01
+2012,"Pernambuco","Maio",36,2012-01-01
+2013,"Pernambuco","Maio",9,2013-01-01
+2014,"Pernambuco","Maio",4,2014-01-01
+2015,"Pernambuco","Maio",17,2015-01-01
+2016,"Pernambuco","Maio",6,2016-01-01
+2017,"Pernambuco","Maio",13,2017-01-01
+1998,"Pernambuco","Junho",1,1998-01-01
+1999,"Pernambuco","Junho",7,1999-01-01
+2000,"Pernambuco","Junho",4,2000-01-01
+2001,"Pernambuco","Junho",2,2001-01-01
+2002,"Pernambuco","Junho",1,2002-01-01
+2003,"Pernambuco","Junho",2,2003-01-01
+2004,"Pernambuco","Junho",4,2004-01-01
+2005,"Pernambuco","Junho",3,2005-01-01
+2006,"Pernambuco","Junho",0,2006-01-01
+2007,"Pernambuco","Junho",1,2007-01-01
+2008,"Pernambuco","Junho",0,2008-01-01
+2009,"Pernambuco","Junho",1,2009-01-01
+2010,"Pernambuco","Junho",1,2010-01-01
+2011,"Pernambuco","Junho",4,2011-01-01
+2012,"Pernambuco","Junho",12,2012-01-01
+2013,"Pernambuco","Junho",12,2013-01-01
+2014,"Pernambuco","Junho",3,2014-01-01
+2015,"Pernambuco","Junho",3,2015-01-01
+2016,"Pernambuco","Junho",4,2016-01-01
+2017,"Pernambuco","Junho",5,2017-01-01
+1998,"Pernambuco","Julho",5,1998-01-01
+1999,"Pernambuco","Julho",2,1999-01-01
+2000,"Pernambuco","Julho",0,2000-01-01
+2001,"Pernambuco","Julho",6,2001-01-01
+2002,"Pernambuco","Julho",8,2002-01-01
+2003,"Pernambuco","Julho",5,2003-01-01
+2004,"Pernambuco","Julho",13,2004-01-01
+2005,"Pernambuco","Julho",1,2005-01-01
+2006,"Pernambuco","Julho",1,2006-01-01
+2007,"Pernambuco","Julho",3,2007-01-01
+2008,"Pernambuco","Julho",0,2008-01-01
+2009,"Pernambuco","Julho",1,2009-01-01
+2010,"Pernambuco","Julho",7,2010-01-01
+2011,"Pernambuco","Julho",2,2011-01-01
+2012,"Pernambuco","Julho",11,2012-01-01
+2013,"Pernambuco","Julho",4,2013-01-01
+2014,"Pernambuco","Julho",11,2014-01-01
+2015,"Pernambuco","Julho",13,2015-01-01
+2016,"Pernambuco","Julho",17,2016-01-01
+2017,"Pernambuco","Julho",2,2017-01-01
+1998,"Pernambuco","Agosto",12,1998-01-01
+1999,"Pernambuco","Agosto",3,1999-01-01
+2000,"Pernambuco","Agosto",31,2000-01-01
+2001,"Pernambuco","Agosto",27,2001-01-01
+2002,"Pernambuco","Agosto",37,2002-01-01
+2003,"Pernambuco","Agosto",26,2003-01-01
+2004,"Pernambuco","Agosto",41,2004-01-01
+2005,"Pernambuco","Agosto",10,2005-01-01
+2006,"Pernambuco","Agosto",8,2006-01-01
+2007,"Pernambuco","Agosto",20,2007-01-01
+2008,"Pernambuco","Agosto",2,2008-01-01
+2009,"Pernambuco","Agosto",10,2009-01-01
+2010,"Pernambuco","Agosto",29,2010-01-01
+2011,"Pernambuco","Agosto",27,2011-01-01
+2012,"Pernambuco","Agosto",27,2012-01-01
+2013,"Pernambuco","Agosto",14,2013-01-01
+2014,"Pernambuco","Agosto",23,2014-01-01
+2015,"Pernambuco","Agosto",21,2015-01-01
+2016,"Pernambuco","Agosto",42,2016-01-01
+2017,"Pernambuco","Agosto",20,2017-01-01
+1998,"Pernambuco","Setembro",177,1998-01-01
+1999,"Pernambuco","Setembro",64,1999-01-01
+2000,"Pernambuco","Setembro",130,2000-01-01
+2001,"Pernambuco","Setembro",298,2001-01-01
+2002,"Pernambuco","Setembro",374,2002-01-01
+2003,"Pernambuco","Setembro",510,2003-01-01
+2004,"Pernambuco","Setembro",192,2004-01-01
+2005,"Pernambuco","Setembro",154,2005-01-01
+2006,"Pernambuco","Setembro",147,2006-01-01
+2007,"Pernambuco","Setembro",164,2007-01-01
+2008,"Pernambuco","Setembro",92,2008-01-01
+2009,"Pernambuco","Setembro",164,2009-01-01
+2010,"Pernambuco","Setembro",179,2010-01-01
+2011,"Pernambuco","Setembro",243,2011-01-01
+2012,"Pernambuco","Setembro",192,2012-01-01
+2013,"Pernambuco","Setembro",143,2013-01-01
+2014,"Pernambuco","Setembro",63,2014-01-01
+2015,"Pernambuco","Setembro",116,2015-01-01
+2016,"Pernambuco","Setembro",171,2016-01-01
+2017,"Pernambuco","Setembro",69,2017-01-01
+1998,"Pernambuco","Outubro",372,1998-01-01
+1999,"Pernambuco","Outubro",180,1999-01-01
+2000,"Pernambuco","Outubro",411,2000-01-01
+2001,"Pernambuco","Outubro",461,2001-01-01
+2002,"Pernambuco","Outubro",638,2002-01-01
+2003,"Pernambuco","Outubro",859,2003-01-01
+2004,"Pernambuco","Outubro",545,2004-01-01
+2005,"Pernambuco","Outubro",408,2005-01-01
+2006,"Pernambuco","Outubro",310,2006-01-01
+2007,"Pernambuco","Outubro",702,2007-01-01
+2008,"Pernambuco","Outubro",274,2008-01-01
+2009,"Pernambuco","Outubro",254,2009-01-01
+2010,"Pernambuco","Outubro",347,2010-01-01
+2011,"Pernambuco","Outubro",461,2011-01-01
+2012,"Pernambuco","Outubro",222,2012-01-01
+2013,"Pernambuco","Outubro",161,2013-01-01
+2014,"Pernambuco","Outubro",174,2014-01-01
+2015,"Pernambuco","Outubro",194,2015-01-01
+2016,"Pernambuco","Outubro",319,2016-01-01
+2017,"Pernambuco","Outubro",256,2017-01-01
+1998,"Pernambuco","Novembro",141,1998-01-01
+1999,"Pernambuco","Novembro",41,1999-01-01
+2000,"Pernambuco","Novembro",64,2000-01-01
+2001,"Pernambuco","Novembro",208,2001-01-01
+2002,"Pernambuco","Novembro",521,2002-01-01
+2003,"Pernambuco","Novembro",560,2003-01-01
+2004,"Pernambuco","Novembro",465,2004-01-01
+2005,"Pernambuco","Novembro",452,2005-01-01
+2006,"Pernambuco","Novembro",385,2006-01-01
+2007,"Pernambuco","Novembro",359,2007-01-01
+2008,"Pernambuco","Novembro",363,2008-01-01
+2009,"Pernambuco","Novembro",486,2009-01-01
+2010,"Pernambuco","Novembro",831,2010-01-01
+2011,"Pernambuco","Novembro",352,2011-01-01
+2012,"Pernambuco","Novembro",181,2012-01-01
+2013,"Pernambuco","Novembro",110,2013-01-01
+2014,"Pernambuco","Novembro",111,2014-01-01
+2015,"Pernambuco","Novembro",315,2015-01-01
+2016,"Pernambuco","Novembro",191,2016-01-01
+2017,"Pernambuco","Novembro",66,2017-01-01
+1998,"Pernambuco","Dezembro",59,1998-01-01
+1999,"Pernambuco","Dezembro",16,1999-01-01
+2000,"Pernambuco","Dezembro",22,2000-01-01
+2001,"Pernambuco","Dezembro",62,2001-01-01
+2002,"Pernambuco","Dezembro",259,2002-01-01
+2003,"Pernambuco","Dezembro",229,2003-01-01
+2004,"Pernambuco","Dezembro",373,2004-01-01
+2005,"Pernambuco","Dezembro",191,2005-01-01
+2006,"Pernambuco","Dezembro",207,2006-01-01
+2007,"Pernambuco","Dezembro",200,2007-01-01
+2008,"Pernambuco","Dezembro",203,2008-01-01
+2009,"Pernambuco","Dezembro",351,2009-01-01
+2010,"Pernambuco","Dezembro",117,2010-01-01
+2011,"Pernambuco","Dezembro",364,2011-01-01
+2012,"Pernambuco","Dezembro",108,2012-01-01
+2013,"Pernambuco","Dezembro",141,2013-01-01
+2014,"Pernambuco","Dezembro",101,2014-01-01
+2015,"Pernambuco","Dezembro",176,2015-01-01
+2016,"Pernambuco","Dezembro",161,2016-01-01
+1998,"Piau","Janeiro",0,1998-01-01
+1999,"Piau","Janeiro",21,1999-01-01
+2000,"Piau","Janeiro",5,2000-01-01
+2001,"Piau","Janeiro",29,2001-01-01
+2002,"Piau","Janeiro",33,2002-01-01
+2003,"Piau","Janeiro",86,2003-01-01
+2004,"Piau","Janeiro",42,2004-01-01
+2005,"Piau","Janeiro",94,2005-01-01
+2006,"Piau","Janeiro",133,2006-01-01
+2007,"Piau","Janeiro",123,2007-01-01
+2008,"Piau","Janeiro",61,2008-01-01
+2009,"Piau","Janeiro",79,2009-01-01
+2010,"Piau","Janeiro",99,2010-01-01
+2011,"Piau","Janeiro",39,2011-01-01
+2012,"Piau","Janeiro",80,2012-01-01
+2013,"Piau","Janeiro",72,2013-01-01
+2014,"Piau","Janeiro",79,2014-01-01
+2015,"Piau","Janeiro",92,2015-01-01
+2016,"Piau","Janeiro",94,2016-01-01
+2017,"Piau","Janeiro",85,2017-01-01
+1998,"Piau","Fevereiro",0,1998-01-01
+1999,"Piau","Fevereiro",22,1999-01-01
+2000,"Piau","Fevereiro",12,2000-01-01
+2001,"Piau","Fevereiro",0,2001-01-01
+2002,"Piau","Fevereiro",160,2002-01-01
+2003,"Piau","Fevereiro",3,2003-01-01
+2004,"Piau","Fevereiro",20,2004-01-01
+2005,"Piau","Fevereiro",26,2005-01-01
+2006,"Piau","Fevereiro",23,2006-01-01
+2007,"Piau","Fevereiro",11,2007-01-01
+2008,"Piau","Fevereiro",21,2008-01-01
+2009,"Piau","Fevereiro",19,2009-01-01
+2010,"Piau","Fevereiro",54,2010-01-01
+2011,"Piau","Fevereiro",11,2011-01-01
+2012,"Piau","Fevereiro",31,2012-01-01
+2013,"Piau","Fevereiro",68,2013-01-01
+2014,"Piau","Fevereiro",14,2014-01-01
+2015,"Piau","Fevereiro",38,2015-01-01
+2016,"Piau","Fevereiro",97,2016-01-01
+2017,"Piau","Fevereiro",24,2017-01-01
+1998,"Piau","Mar�o",0,1998-01-01
+1999,"Piau","Mar�o",4,1999-01-01
+2000,"Piau","Mar�o",14,2000-01-01
+2001,"Piau","Mar�o",2,2001-01-01
+2002,"Piau","Mar�o",63,2002-01-01
+2003,"Piau","Mar�o",15,2003-01-01
+2004,"Piau","Mar�o",27,2004-01-01
+2005,"Piau","Mar�o",13,2005-01-01
+2006,"Piau","Mar�o",18,2006-01-01
+2007,"Piau","Mar�o",31,2007-01-01
+2008,"Piau","Mar�o",4,2008-01-01
+2009,"Piau","Mar�o",17,2009-01-01
+2010,"Piau","Mar�o",47,2010-01-01
+2011,"Piau","Mar�o",15,2011-01-01
+2012,"Piau","Mar�o",71,2012-01-01
+2013,"Piau","Mar�o",14,2013-01-01
+2014,"Piau","Mar�o",88,2014-01-01
+2015,"Piau","Mar�o",35,2015-01-01
+2016,"Piau","Mar�o",53,2016-01-01
+2017,"Piau","Mar�o",25,2017-01-01
+1998,"Piau","Abril",0,1998-01-01
+1999,"Piau","Abril",10,1999-01-01
+2000,"Piau","Abril",15,2000-01-01
+2001,"Piau","Abril",1,2001-01-01
+2002,"Piau","Abril",87,2002-01-01
+2003,"Piau","Abril",22,2003-01-01
+2004,"Piau","Abril",10,2004-01-01
+2005,"Piau","Abril",3,2005-01-01
+2006,"Piau","Abril",1,2006-01-01
+2007,"Piau","Abril",9,2007-01-01
+2008,"Piau","Abril",7,2008-01-01
+2009,"Piau","Abril",8,2009-01-01
+2010,"Piau","Abril",56,2010-01-01
+2011,"Piau","Abril",16,2011-01-01
+2012,"Piau","Abril",119,2012-01-01
+2013,"Piau","Abril",34,2013-01-01
+2014,"Piau","Abril",63,2014-01-01
+2015,"Piau","Abril",50,2015-01-01
+2016,"Piau","Abril",35,2016-01-01
+2017,"Piau","Abril",25,2017-01-01
+1998,"Piau","Maio",0,1998-01-01
+1999,"Piau","Maio",8,1999-01-01
+2000,"Piau","Maio",25,2000-01-01
+2001,"Piau","Maio",36,2001-01-01
+2002,"Piau","Maio",84,2002-01-01
+2003,"Piau","Maio",13,2003-01-01
+2004,"Piau","Maio",80,2004-01-01
+2005,"Piau","Maio",22,2005-01-01
+2006,"Piau","Maio",0,2006-01-01
+2007,"Piau","Maio",52,2007-01-01
+2008,"Piau","Maio",12,2008-01-01
+2009,"Piau","Maio",12,2009-01-01
+2010,"Piau","Maio",231,2010-01-01
+2011,"Piau","Maio",77,2011-01-01
+2012,"Piau","Maio",334,2012-01-01
+2013,"Piau","Maio",40,2013-01-01
+2014,"Piau","Maio",138,2014-01-01
+2015,"Piau","Maio",66,2015-01-01
+2016,"Piau","Maio",60,2016-01-01
+2017,"Piau","Maio",36,2017-01-01
+1998,"Piau","Junho",46,1998-01-01
+1999,"Piau","Junho",47,1999-01-01
+2000,"Piau","Junho",18,2000-01-01
+2001,"Piau","Junho",87,2001-01-01
+2002,"Piau","Junho",161,2002-01-01
+2003,"Piau","Junho",88,2003-01-01
+2004,"Piau","Junho",239,2004-01-01
+2005,"Piau","Junho",171,2005-01-01
+2006,"Piau","Junho",40,2006-01-01
+2007,"Piau","Junho",303,2007-01-01
+2008,"Piau","Junho",33,2008-01-01
+2009,"Piau","Junho",56,2009-01-01
+2010,"Piau","Junho",208,2010-01-01
+2011,"Piau","Junho",462,2011-01-01
+2012,"Piau","Junho",834,2012-01-01
+2013,"Piau","Junho",263,2013-01-01
+2014,"Piau","Junho",373,2014-01-01
+2015,"Piau","Junho",283,2015-01-01
+2016,"Piau","Junho",153,2016-01-01
+2017,"Piau","Junho",193,2017-01-01
+1998,"Piau","Julho",189,1998-01-01
+1999,"Piau","Julho",123,1999-01-01
+2000,"Piau","Julho",75,2000-01-01
+2001,"Piau","Julho",337,2001-01-01
+2002,"Piau","Julho",534,2002-01-01
+2003,"Piau","Julho",407,2003-01-01
+2004,"Piau","Julho",564,2004-01-01
+2005,"Piau","Julho",445,2005-01-01
+2006,"Piau","Julho",150,2006-01-01
+2007,"Piau","Julho",919,2007-01-01
+2008,"Piau","Julho",97,2008-01-01
+2009,"Piau","Julho",302,2009-01-01
+2010,"Piau","Julho",1.696,2010-01-01
+2011,"Piau","Julho",864,2011-01-01
+2012,"Piau","Julho",1.755,2012-01-01
+2013,"Piau","Julho",361,2013-01-01
+2014,"Piau","Julho",1.177,2014-01-01
+2015,"Piau","Julho",690,2015-01-01
+2016,"Piau","Julho",754,2016-01-01
+2017,"Piau","Julho",643,2017-01-01
+1998,"Piau","Agosto",711,1998-01-01
+1999,"Piau","Agosto",499,1999-01-01
+2000,"Piau","Agosto",415,2000-01-01
+2001,"Piau","Agosto",1.133,2001-01-01
+2002,"Piau","Agosto",2.28,2002-01-01
+2003,"Piau","Agosto",864,2003-01-01
+2004,"Piau","Agosto",1.002,2004-01-01
+2005,"Piau","Agosto",943,2005-01-01
+2006,"Piau","Agosto",911,2006-01-01
+2007,"Piau","Agosto",3.551,2007-01-01
+2008,"Piau","Agosto",290,2008-01-01
+2009,"Piau","Agosto",790,2009-01-01
+2010,"Piau","Agosto",4.035,2010-01-01
+2011,"Piau","Agosto",1.958,2011-01-01
+2012,"Piau","Agosto",3.614,2012-01-01
+2013,"Piau","Agosto",1.015,2013-01-01
+2014,"Piau","Agosto",2.265,2014-01-01
+2015,"Piau","Agosto",2.057,2015-01-01
+2016,"Piau","Agosto",1.647,2016-01-01
+2017,"Piau","Agosto",1.572,2017-01-01
+1998,"Piau","Setembro",1.991,1998-01-01
+1999,"Piau","Setembro",872,1999-01-01
+2000,"Piau","Setembro",1.099,2000-01-01
+2001,"Piau","Setembro",2.401,2001-01-01
+2002,"Piau","Setembro",2.475,2002-01-01
+2003,"Piau","Setembro",3.399,2003-01-01
+2004,"Piau","Setembro",2.662,2004-01-01
+2005,"Piau","Setembro",3.136,2005-01-01
+2006,"Piau","Setembro",1.618,2006-01-01
+2007,"Piau","Setembro",4.078,2007-01-01
+2008,"Piau","Setembro",1.472,2008-01-01
+2009,"Piau","Setembro",1.709,2009-01-01
+2010,"Piau","Setembro",5.392,2010-01-01
+2011,"Piau","Setembro",4.402,2011-01-01
+2012,"Piau","Setembro",4.479,2012-01-01
+2013,"Piau","Setembro",2.311,2013-01-01
+2014,"Piau","Setembro",2.536,2014-01-01
+2015,"Piau","Setembro",5.828,2015-01-01
+2016,"Piau","Setembro",1.394,2016-01-01
+2017,"Piau","Setembro",3.422,2017-01-01
+1998,"Piau","Outubro",2.586,1998-01-01
+1999,"Piau","Outubro",1.438,1999-01-01
+2000,"Piau","Outubro",2.558,2000-01-01
+2001,"Piau","Outubro",3.742,2001-01-01
+2002,"Piau","Outubro",2.757,2002-01-01
+2003,"Piau","Outubro",2.332,2003-01-01
+2004,"Piau","Outubro",2.144,2004-01-01
+2005,"Piau","Outubro",3.263,2005-01-01
+2006,"Piau","Outubro",1.443,2006-01-01
+2007,"Piau","Outubro",2.331,2007-01-01
+2008,"Piau","Outubro",1.83,2008-01-01
+2009,"Piau","Outubro",913,2009-01-01
+2010,"Piau","Outubro",3.863,2010-01-01
+2011,"Piau","Outubro",1.484,2011-01-01
+2012,"Piau","Outubro",2.506,2012-01-01
+2013,"Piau","Outubro",1.269,2013-01-01
+2014,"Piau","Outubro",1.788,2014-01-01
+2015,"Piau","Outubro",4.068,2015-01-01
+2016,"Piau","Outubro",2.598,2016-01-01
+2017,"Piau","Outubro",3.004,2017-01-01
+1998,"Piau","Novembro",424,1998-01-01
+1999,"Piau","Novembro",334,1999-01-01
+2000,"Piau","Novembro",450,2000-01-01
+2001,"Piau","Novembro",1.484,2001-01-01
+2002,"Piau","Novembro",1.174,2002-01-01
+2003,"Piau","Novembro",1.248,2003-01-01
+2004,"Piau","Novembro",1.798,2004-01-01
+2005,"Piau","Novembro",1.599,2005-01-01
+2006,"Piau","Novembro",740,2006-01-01
+2007,"Piau","Novembro",939,2007-01-01
+2008,"Piau","Novembro",594,2008-01-01
+2009,"Piau","Novembro",1.336,2009-01-01
+2010,"Piau","Novembro",1.417,2010-01-01
+2011,"Piau","Novembro",825,2011-01-01
+2012,"Piau","Novembro",447,2012-01-01
+2013,"Piau","Novembro",640,2013-01-01
+2014,"Piau","Novembro",717,2014-01-01
+2015,"Piau","Novembro",897,2015-01-01
+2016,"Piau","Novembro",1.126,2016-01-01
+2017,"Piau","Novembro",449,2017-01-01
+1998,"Piau","Dezembro",119,1998-01-01
+1999,"Piau","Dezembro",74,1999-01-01
+2000,"Piau","Dezembro",79,2000-01-01
+2001,"Piau","Dezembro",230,2001-01-01
+2002,"Piau","Dezembro",373,2002-01-01
+2003,"Piau","Dezembro",459,2003-01-01
+2004,"Piau","Dezembro",788,2004-01-01
+2005,"Piau","Dezembro",486,2005-01-01
+2006,"Piau","Dezembro",339,2006-01-01
+2007,"Piau","Dezembro",317,2007-01-01
+2008,"Piau","Dezembro",329,2008-01-01
+2009,"Piau","Dezembro",570,2009-01-01
+2010,"Piau","Dezembro",357,2010-01-01
+2011,"Piau","Dezembro",362,2011-01-01
+2012,"Piau","Dezembro",334,2012-01-01
+2013,"Piau","Dezembro",468,2013-01-01
+2014,"Piau","Dezembro",346,2014-01-01
+2015,"Piau","Dezembro",626,2015-01-01
+2016,"Piau","Dezembro",374,2016-01-01
+1998,"Rio","Janeiro",0,1998-01-01
+1999,"Rio","Janeiro",0,1999-01-01
+2000,"Rio","Janeiro",0,2000-01-01
+2001,"Rio","Janeiro",0,2001-01-01
+2002,"Rio","Janeiro",0,2002-01-01
+2003,"Rio","Janeiro",0,2003-01-01
+2004,"Rio","Janeiro",1,2004-01-01
+2005,"Rio","Janeiro",5,2005-01-01
+2006,"Rio","Janeiro",12,2006-01-01
+2007,"Rio","Janeiro",0,2007-01-01
+2008,"Rio","Janeiro",1,2008-01-01
+2009,"Rio","Janeiro",3,2009-01-01
+2010,"Rio","Janeiro",13,2010-01-01
+2011,"Rio","Janeiro",10,2011-01-01
+2012,"Rio","Janeiro",12,2012-01-01
+2013,"Rio","Janeiro",9,2013-01-01
+2014,"Rio","Janeiro",35,2014-01-01
+2015,"Rio","Janeiro",97,2015-01-01
+2016,"Rio","Janeiro",9,2016-01-01
+2017,"Rio","Janeiro",15,2017-01-01
+1998,"Rio","Fevereiro",0,1998-01-01
+1999,"Rio","Fevereiro",0,1999-01-01
+2000,"Rio","Fevereiro",1,2000-01-01
+2001,"Rio","Fevereiro",3,2001-01-01
+2002,"Rio","Fevereiro",1,2002-01-01
+2003,"Rio","Fevereiro",10,2003-01-01
+2004,"Rio","Fevereiro",8,2004-01-01
+2005,"Rio","Fevereiro",4,2005-01-01
+2006,"Rio","Fevereiro",7,2006-01-01
+2007,"Rio","Fevereiro",15,2007-01-01
+2008,"Rio","Fevereiro",2,2008-01-01
+2009,"Rio","Fevereiro",5,2009-01-01
+2010,"Rio","Fevereiro",73,2010-01-01
+2011,"Rio","Fevereiro",36,2011-01-01
+2012,"Rio","Fevereiro",11,2012-01-01
+2013,"Rio","Fevereiro",12,2013-01-01
+2014,"Rio","Fevereiro",116,2014-01-01
+2015,"Rio","Fevereiro",36,2015-01-01
+2016,"Rio","Fevereiro",16,2016-01-01
+2017,"Rio","Fevereiro",34,2017-01-01
+1998,"Rio","Mar�o",0,1998-01-01
+1999,"Rio","Mar�o",0,1999-01-01
+2000,"Rio","Mar�o",0,2000-01-01
+2001,"Rio","Mar�o",0,2001-01-01
+2002,"Rio","Mar�o",1,2002-01-01
+2003,"Rio","Mar�o",23,2003-01-01
+2004,"Rio","Mar�o",4,2004-01-01
+2005,"Rio","Mar�o",7,2005-01-01
+2006,"Rio","Mar�o",8,2006-01-01
+2007,"Rio","Mar�o",27,2007-01-01
+2008,"Rio","Mar�o",2,2008-01-01
+2009,"Rio","Mar�o",5,2009-01-01
+2010,"Rio","Mar�o",10,2010-01-01
+2011,"Rio","Mar�o",7,2011-01-01
+2012,"Rio","Mar�o",20,2012-01-01
+2013,"Rio","Mar�o",9,2013-01-01
+2014,"Rio","Mar�o",38,2014-01-01
+2015,"Rio","Mar�o",23,2015-01-01
+2016,"Rio","Mar�o",16,2016-01-01
+2017,"Rio","Mar�o",10,2017-01-01
+1998,"Rio","Abril",0,1998-01-01
+1999,"Rio","Abril",1,1999-01-01
+2000,"Rio","Abril",2,2000-01-01
+2001,"Rio","Abril",2,2001-01-01
+2002,"Rio","Abril",8,2002-01-01
+2003,"Rio","Abril",11,2003-01-01
+2004,"Rio","Abril",3,2004-01-01
+2005,"Rio","Abril",1,2005-01-01
+2006,"Rio","Abril",8,2006-01-01
+2007,"Rio","Abril",9,2007-01-01
+2008,"Rio","Abril",2,2008-01-01
+2009,"Rio","Abril",1,2009-01-01
+2010,"Rio","Abril",10,2010-01-01
+2011,"Rio","Abril",12,2011-01-01
+2012,"Rio","Abril",12,2012-01-01
+2013,"Rio","Abril",9,2013-01-01
+2014,"Rio","Abril",25,2014-01-01
+2015,"Rio","Abril",24,2015-01-01
+2016,"Rio","Abril",45,2016-01-01
+2017,"Rio","Abril",12,2017-01-01
+1998,"Rio","Maio",0,1998-01-01
+1999,"Rio","Maio",7,1999-01-01
+2000,"Rio","Maio",5,2000-01-01
+2001,"Rio","Maio",4,2001-01-01
+2002,"Rio","Maio",4,2002-01-01
+2003,"Rio","Maio",1,2003-01-01
+2004,"Rio","Maio",0,2004-01-01
+2005,"Rio","Maio",11,2005-01-01
+2006,"Rio","Maio",4,2006-01-01
+2007,"Rio","Maio",2,2007-01-01
+2008,"Rio","Maio",0,2008-01-01
+2009,"Rio","Maio",37,2009-01-01
+2010,"Rio","Maio",6,2010-01-01
+2011,"Rio","Maio",17,2011-01-01
+2012,"Rio","Maio",18,2012-01-01
+2013,"Rio","Maio",16,2013-01-01
+2014,"Rio","Maio",20,2014-01-01
+2015,"Rio","Maio",21,2015-01-01
+2016,"Rio","Maio",30,2016-01-01
+2017,"Rio","Maio",15,2017-01-01
+1998,"Rio","Junho",3,1998-01-01
+1999,"Rio","Junho",8,1999-01-01
+2000,"Rio","Junho",14,2000-01-01
+2001,"Rio","Junho",13,2001-01-01
+2002,"Rio","Junho",13,2002-01-01
+2003,"Rio","Junho",13,2003-01-01
+2004,"Rio","Junho",19,2004-01-01
+2005,"Rio","Junho",16,2005-01-01
+2006,"Rio","Junho",19,2006-01-01
+2007,"Rio","Junho",3,2007-01-01
+2008,"Rio","Junho",4,2008-01-01
+2009,"Rio","Junho",33,2009-01-01
+2010,"Rio","Junho",7,2010-01-01
+2011,"Rio","Junho",33,2011-01-01
+2012,"Rio","Junho",14,2012-01-01
+2013,"Rio","Junho",17,2013-01-01
+2014,"Rio","Junho",54,2014-01-01
+2015,"Rio","Junho",33,2015-01-01
+2016,"Rio","Junho",37,2016-01-01
+2017,"Rio","Junho",68,2017-01-01
+1998,"Rio","Julho",21,1998-01-01
+1999,"Rio","Julho",14,1999-01-01
+2000,"Rio","Julho",22,2000-01-01
+2001,"Rio","Julho",57,2001-01-01
+2002,"Rio","Julho",17,2002-01-01
+2003,"Rio","Julho",42,2003-01-01
+2004,"Rio","Julho",23,2004-01-01
+2005,"Rio","Julho",20,2005-01-01
+2006,"Rio","Julho",54,2006-01-01
+2007,"Rio","Julho",15,2007-01-01
+2008,"Rio","Julho",14,2008-01-01
+2009,"Rio","Julho",56,2009-01-01
+2010,"Rio","Julho",55,2010-01-01
+2011,"Rio","Julho",121,2011-01-01
+2012,"Rio","Julho",50,2012-01-01
+2013,"Rio","Julho",58,2013-01-01
+2014,"Rio","Julho",62,2014-01-01
+2015,"Rio","Julho",74,2015-01-01
+2016,"Rio","Julho",131,2016-01-01
+2017,"Rio","Julho",70,2017-01-01
+1998,"Rio","Agosto",21,1998-01-01
+1999,"Rio","Agosto",88,1999-01-01
+2000,"Rio","Agosto",34,2000-01-01
+2001,"Rio","Agosto",129,2001-01-01
+2002,"Rio","Agosto",184,2002-01-01
+2003,"Rio","Agosto",191,2003-01-01
+2004,"Rio","Agosto",74,2004-01-01
+2005,"Rio","Agosto",98,2005-01-01
+2006,"Rio","Agosto",79,2006-01-01
+2007,"Rio","Agosto",189,2007-01-01
+2008,"Rio","Agosto",19,2008-01-01
+2009,"Rio","Agosto",91,2009-01-01
+2010,"Rio","Agosto",316,2010-01-01
+2011,"Rio","Agosto",250,2011-01-01
+2012,"Rio","Agosto",72,2012-01-01
+2013,"Rio","Agosto",74,2013-01-01
+2014,"Rio","Agosto",199,2014-01-01
+2015,"Rio","Agosto",158,2015-01-01
+2016,"Rio","Agosto",241,2016-01-01
+2017,"Rio","Agosto",164,2017-01-01
+1998,"Rio","Setembro",44,1998-01-01
+1999,"Rio","Setembro",192,1999-01-01
+2000,"Rio","Setembro",16,2000-01-01
+2001,"Rio","Setembro",60,2001-01-01
+2002,"Rio","Setembro",45,2002-01-01
+2003,"Rio","Setembro",166,2003-01-01
+2004,"Rio","Setembro",205,2004-01-01
+2005,"Rio","Setembro",46,2005-01-01
+2006,"Rio","Setembro",197,2006-01-01
+2007,"Rio","Setembro",223,2007-01-01
+2008,"Rio","Setembro",132,2008-01-01
+2009,"Rio","Setembro",90,2009-01-01
+2010,"Rio","Setembro",353,2010-01-01
+2011,"Rio","Setembro",510,2011-01-01
+2012,"Rio","Setembro",172,2012-01-01
+2013,"Rio","Setembro",117,2013-01-01
+2014,"Rio","Setembro",318,2014-01-01
+2015,"Rio","Setembro",85,2015-01-01
+2016,"Rio","Setembro",195,2016-01-01
+2017,"Rio","Setembro",728,2017-01-01
+1998,"Rio","Outubro",6,1998-01-01
+1999,"Rio","Outubro",30,1999-01-01
+2000,"Rio","Outubro",25,2000-01-01
+2001,"Rio","Outubro",33,2001-01-01
+2002,"Rio","Outubro",313,2002-01-01
+2003,"Rio","Outubro",81,2003-01-01
+2004,"Rio","Outubro",26,2004-01-01
+2005,"Rio","Outubro",116,2005-01-01
+2006,"Rio","Outubro",12,2006-01-01
+2007,"Rio","Outubro",137,2007-01-01
+2008,"Rio","Outubro",42,2008-01-01
+2009,"Rio","Outubro",18,2009-01-01
+2010,"Rio","Outubro",35,2010-01-01
+2011,"Rio","Outubro",114,2011-01-01
+2012,"Rio","Outubro",163,2012-01-01
+2013,"Rio","Outubro",44,2013-01-01
+2014,"Rio","Outubro",500,2014-01-01
+2015,"Rio","Outubro",96,2015-01-01
+2016,"Rio","Outubro",30,2016-01-01
+2017,"Rio","Outubro",238,2017-01-01
+1998,"Rio","Novembro",6,1998-01-01
+1999,"Rio","Novembro",16,1999-01-01
+2000,"Rio","Novembro",2,2000-01-01
+2001,"Rio","Novembro",4,2001-01-01
+2002,"Rio","Novembro",11,2002-01-01
+2003,"Rio","Novembro",5,2003-01-01
+2004,"Rio","Novembro",49,2004-01-01
+2005,"Rio","Novembro",12,2005-01-01
+2006,"Rio","Novembro",1,2006-01-01
+2007,"Rio","Novembro",1,2007-01-01
+2008,"Rio","Novembro",0,2008-01-01
+2009,"Rio","Novembro",27,2009-01-01
+2010,"Rio","Novembro",23,2010-01-01
+2011,"Rio","Novembro",20,2011-01-01
+2012,"Rio","Novembro",13,2012-01-01
+2013,"Rio","Novembro",28,2013-01-01
+2014,"Rio","Novembro",36,2014-01-01
+2015,"Rio","Novembro",6,2015-01-01
+2016,"Rio","Novembro",19,2016-01-01
+2017,"Rio","Novembro",43,2017-01-01
+1998,"Rio","Dezembro",1,1998-01-01
+1999,"Rio","Dezembro",0,1999-01-01
+2000,"Rio","Dezembro",0,2000-01-01
+2001,"Rio","Dezembro",2,2001-01-01
+2002,"Rio","Dezembro",8,2002-01-01
+2003,"Rio","Dezembro",10,2003-01-01
+2004,"Rio","Dezembro",9,2004-01-01
+2005,"Rio","Dezembro",2,2005-01-01
+2006,"Rio","Dezembro",0,2006-01-01
+2007,"Rio","Dezembro",0,2007-01-01
+2008,"Rio","Dezembro",6,2008-01-01
+2009,"Rio","Dezembro",1,2009-01-01
+2010,"Rio","Dezembro",10,2010-01-01
+2011,"Rio","Dezembro",3,2011-01-01
+2012,"Rio","Dezembro",18,2012-01-01
+2013,"Rio","Dezembro",12,2013-01-01
+2014,"Rio","Dezembro",25,2014-01-01
+2015,"Rio","Dezembro",11,2015-01-01
+2016,"Rio","Dezembro",5,2016-01-01
+1998,"Rio","Janeiro",0,1998-01-01
+1999,"Rio","Janeiro",32,1999-01-01
+2000,"Rio","Janeiro",1,2000-01-01
+2001,"Rio","Janeiro",2,2001-01-01
+2002,"Rio","Janeiro",4,2002-01-01
+2003,"Rio","Janeiro",113,2003-01-01
+2004,"Rio","Janeiro",44,2004-01-01
+2005,"Rio","Janeiro",153,2005-01-01
+2006,"Rio","Janeiro",93,2006-01-01
+2007,"Rio","Janeiro",63,2007-01-01
+2008,"Rio","Janeiro",70,2008-01-01
+2009,"Rio","Janeiro",110,2009-01-01
+2010,"Rio","Janeiro",32,2010-01-01
+2011,"Rio","Janeiro",15,2011-01-01
+2012,"Rio","Janeiro",72,2012-01-01
+2013,"Rio","Janeiro",25,2013-01-01
+2014,"Rio","Janeiro",34,2014-01-01
+2015,"Rio","Janeiro",45,2015-01-01
+2016,"Rio","Janeiro",15,2016-01-01
+2017,"Rio","Janeiro",28,2017-01-01
+1998,"Rio","Fevereiro",0,1998-01-01
+1999,"Rio","Fevereiro",11,1999-01-01
+2000,"Rio","Fevereiro",7,2000-01-01
+2001,"Rio","Fevereiro",0,2001-01-01
+2002,"Rio","Fevereiro",18,2002-01-01
+2003,"Rio","Fevereiro",9,2003-01-01
+2004,"Rio","Fevereiro",5,2004-01-01
+2005,"Rio","Fevereiro",42,2005-01-01
+2006,"Rio","Fevereiro",21,2006-01-01
+2007,"Rio","Fevereiro",9,2007-01-01
+2008,"Rio","Fevereiro",25,2008-01-01
+2009,"Rio","Fevereiro",8,2009-01-01
+2010,"Rio","Fevereiro",12,2010-01-01
+2011,"Rio","Fevereiro",5,2011-01-01
+2012,"Rio","Fevereiro",13,2012-01-01
+2013,"Rio","Fevereiro",24,2013-01-01
+2014,"Rio","Fevereiro",8,2014-01-01
+2015,"Rio","Fevereiro",15,2015-01-01
+2016,"Rio","Fevereiro",2,2016-01-01
+2017,"Rio","Fevereiro",10,2017-01-01
+1998,"Rio","Mar�o",0,1998-01-01
+1999,"Rio","Mar�o",9,1999-01-01
+2000,"Rio","Mar�o",11,2000-01-01
+2001,"Rio","Mar�o",0,2001-01-01
+2002,"Rio","Mar�o",3,2002-01-01
+2003,"Rio","Mar�o",1,2003-01-01
+2004,"Rio","Mar�o",1,2004-01-01
+2005,"Rio","Mar�o",15,2005-01-01
+2006,"Rio","Mar�o",8,2006-01-01
+2007,"Rio","Mar�o",7,2007-01-01
+2008,"Rio","Mar�o",3,2008-01-01
+2009,"Rio","Mar�o",2,2009-01-01
+2010,"Rio","Mar�o",23,2010-01-01
+2011,"Rio","Mar�o",3,2011-01-01
+2012,"Rio","Mar�o",2,2012-01-01
+2013,"Rio","Mar�o",6,2013-01-01
+2014,"Rio","Mar�o",6,2014-01-01
+2015,"Rio","Mar�o",3,2015-01-01
+2016,"Rio","Mar�o",1,2016-01-01
+2017,"Rio","Mar�o",3,2017-01-01
+1998,"Rio","Abril",0,1998-01-01
+1999,"Rio","Abril",21,1999-01-01
+2000,"Rio","Abril",16,2000-01-01
+2001,"Rio","Abril",10,2001-01-01
+2002,"Rio","Abril",0,2002-01-01
+2003,"Rio","Abril",2,2003-01-01
+2004,"Rio","Abril",3,2004-01-01
+2005,"Rio","Abril",2,2005-01-01
+2006,"Rio","Abril",2,2006-01-01
+2007,"Rio","Abril",1,2007-01-01
+2008,"Rio","Abril",0,2008-01-01
+2009,"Rio","Abril",1,2009-01-01
+2010,"Rio","Abril",7,2010-01-01
+2011,"Rio","Abril",0,2011-01-01
+2012,"Rio","Abril",4,2012-01-01
+2013,"Rio","Abril",7,2013-01-01
+2014,"Rio","Abril",2,2014-01-01
+2015,"Rio","Abril",4,2015-01-01
+2016,"Rio","Abril",0,2016-01-01
+2017,"Rio","Abril",6,2017-01-01
+1998,"Rio","Maio",0,1998-01-01
+1999,"Rio","Maio",1,1999-01-01
+2000,"Rio","Maio",3,2000-01-01
+2001,"Rio","Maio",56,2001-01-01
+2002,"Rio","Maio",6,2002-01-01
+2003,"Rio","Maio",0,2003-01-01
+2004,"Rio","Maio",2,2004-01-01
+2005,"Rio","Maio",3,2005-01-01
+2006,"Rio","Maio",0,2006-01-01
+2007,"Rio","Maio",2,2007-01-01
+2008,"Rio","Maio",0,2008-01-01
+2009,"Rio","Maio",0,2009-01-01
+2010,"Rio","Maio",3,2010-01-01
+2011,"Rio","Maio",0,2011-01-01
+2012,"Rio","Maio",14,2012-01-01
+2013,"Rio","Maio",2,2013-01-01
+2014,"Rio","Maio",2,2014-01-01
+2015,"Rio","Maio",4,2015-01-01
+2016,"Rio","Maio",1,2016-01-01
+2017,"Rio","Maio",2,2017-01-01
+1998,"Rio","Junho",1,1998-01-01
+1999,"Rio","Junho",4,1999-01-01
+2000,"Rio","Junho",8,2000-01-01
+2001,"Rio","Junho",13,2001-01-01
+2002,"Rio","Junho",1,2002-01-01
+2003,"Rio","Junho",1,2003-01-01
+2004,"Rio","Junho",2,2004-01-01
+2005,"Rio","Junho",0,2005-01-01
+2006,"Rio","Junho",0,2006-01-01
+2007,"Rio","Junho",0,2007-01-01
+2008,"Rio","Junho",0,2008-01-01
+2009,"Rio","Junho",0,2009-01-01
+2010,"Rio","Junho",1,2010-01-01
+2011,"Rio","Junho",1,2011-01-01
+2012,"Rio","Junho",5,2012-01-01
+2013,"Rio","Junho",1,2013-01-01
+2014,"Rio","Junho",2,2014-01-01
+2015,"Rio","Junho",5,2015-01-01
+2016,"Rio","Junho",4,2016-01-01
+2017,"Rio","Junho",3,2017-01-01
+1998,"Rio","Julho",5,1998-01-01
+1999,"Rio","Julho",7,1999-01-01
+2000,"Rio","Julho",5,2000-01-01
+2001,"Rio","Julho",25,2001-01-01
+2002,"Rio","Julho",7,2002-01-01
+2003,"Rio","Julho",7,2003-01-01
+2004,"Rio","Julho",5,2004-01-01
+2005,"Rio","Julho",2,2005-01-01
+2006,"Rio","Julho",0,2006-01-01
+2007,"Rio","Julho",7,2007-01-01
+2008,"Rio","Julho",0,2008-01-01
+2009,"Rio","Julho",0,2009-01-01
+2010,"Rio","Julho",7,2010-01-01
+2011,"Rio","Julho",0,2011-01-01
+2012,"Rio","Julho",3,2012-01-01
+2013,"Rio","Julho",0,2013-01-01
+2014,"Rio","Julho",2,2014-01-01
+2015,"Rio","Julho",3,2015-01-01
+2016,"Rio","Julho",13,2016-01-01
+2017,"Rio","Julho",4,2017-01-01
+1998,"Rio","Agosto",4,1998-01-01
+1999,"Rio","Agosto",40,1999-01-01
+2000,"Rio","Agosto",29,2000-01-01
+2001,"Rio","Agosto",55,2001-01-01
+2002,"Rio","Agosto",48,2002-01-01
+2003,"Rio","Agosto",97,2003-01-01
+2004,"Rio","Agosto",15,2004-01-01
+2005,"Rio","Agosto",9,2005-01-01
+2006,"Rio","Agosto",13,2006-01-01
+2007,"Rio","Agosto",26,2007-01-01
+2008,"Rio","Agosto",2,2008-01-01
+2009,"Rio","Agosto",1,2009-01-01
+2010,"Rio","Agosto",24,2010-01-01
+2011,"Rio","Agosto",10,2011-01-01
+2012,"Rio","Agosto",23,2012-01-01
+2013,"Rio","Agosto",2,2013-01-01
+2014,"Rio","Agosto",21,2014-01-01
+2015,"Rio","Agosto",16,2015-01-01
+2016,"Rio","Agosto",24,2016-01-01
+2017,"Rio","Agosto",21,2017-01-01
+1998,"Rio","Setembro",51,1998-01-01
+1999,"Rio","Setembro",35,1999-01-01
+2000,"Rio","Setembro",17,2000-01-01
+2001,"Rio","Setembro",45,2001-01-01
+2002,"Rio","Setembro",52,2002-01-01
+2003,"Rio","Setembro",112,2003-01-01
+2004,"Rio","Setembro",47,2004-01-01
+2005,"Rio","Setembro",37,2005-01-01
+2006,"Rio","Setembro",50,2006-01-01
+2007,"Rio","Setembro",50,2007-01-01
+2008,"Rio","Setembro",17,2008-01-01
+2009,"Rio","Setembro",29,2009-01-01
+2010,"Rio","Setembro",50,2010-01-01
+2011,"Rio","Setembro",22,2011-01-01
+2012,"Rio","Setembro",41,2012-01-01
+2013,"Rio","Setembro",7,2013-01-01
+2014,"Rio","Setembro",30,2014-01-01
+2015,"Rio","Setembro",36,2015-01-01
+2016,"Rio","Setembro",44,2016-01-01
+2017,"Rio","Setembro",48,2017-01-01
+1998,"Rio","Outubro",55,1998-01-01
+1999,"Rio","Outubro",40,1999-01-01
+2000,"Rio","Outubro",28,2000-01-01
+2001,"Rio","Outubro",34,2001-01-01
+2002,"Rio","Outubro",140,2002-01-01
+2003,"Rio","Outubro",276,2003-01-01
+2004,"Rio","Outubro",89,2004-01-01
+2005,"Rio","Outubro",168,2005-01-01
+2006,"Rio","Outubro",85,2006-01-01
+2007,"Rio","Outubro",88,2007-01-01
+2008,"Rio","Outubro",53,2008-01-01
+2009,"Rio","Outubro",84,2009-01-01
+2010,"Rio","Outubro",111,2010-01-01
+2011,"Rio","Outubro",76,2011-01-01
+2012,"Rio","Outubro",74,2012-01-01
+2013,"Rio","Outubro",71,2013-01-01
+2014,"Rio","Outubro",75,2014-01-01
+2015,"Rio","Outubro",129,2015-01-01
+2016,"Rio","Outubro",129,2016-01-01
+2017,"Rio","Outubro",85,2017-01-01
+1998,"Rio","Novembro",41,1998-01-01
+1999,"Rio","Novembro",62,1999-01-01
+2000,"Rio","Novembro",9,2000-01-01
+2001,"Rio","Novembro",41,2001-01-01
+2002,"Rio","Novembro",178,2002-01-01
+2003,"Rio","Novembro",366,2003-01-01
+2004,"Rio","Novembro",164,2004-01-01
+2005,"Rio","Novembro",249,2005-01-01
+2006,"Rio","Novembro",148,2006-01-01
+2007,"Rio","Novembro",130,2007-01-01
+2008,"Rio","Novembro",82,2008-01-01
+2009,"Rio","Novembro",172,2009-01-01
+2010,"Rio","Novembro",212,2010-01-01
+2011,"Rio","Novembro",144,2011-01-01
+2012,"Rio","Novembro",69,2012-01-01
+2013,"Rio","Novembro",77,2013-01-01
+2014,"Rio","Novembro",124,2014-01-01
+2015,"Rio","Novembro",105,2015-01-01
+2016,"Rio","Novembro",93,2016-01-01
+2017,"Rio","Novembro",89,2017-01-01
+1998,"Rio","Dezembro",19,1998-01-01
+1999,"Rio","Dezembro",29,1999-01-01
+2000,"Rio","Dezembro",11,2000-01-01
+2001,"Rio","Dezembro",20,2001-01-01
+2002,"Rio","Dezembro",222,2002-01-01
+2003,"Rio","Dezembro",278,2003-01-01
+2004,"Rio","Dezembro",284,2004-01-01
+2005,"Rio","Dezembro",149,2005-01-01
+2006,"Rio","Dezembro",101,2006-01-01
+2007,"Rio","Dezembro",80,2007-01-01
+2008,"Rio","Dezembro",126,2008-01-01
+2009,"Rio","Dezembro",221,2009-01-01
+2010,"Rio","Dezembro",54,2010-01-01
+2011,"Rio","Dezembro",125,2011-01-01
+2012,"Rio","Dezembro",75,2012-01-01
+2013,"Rio","Dezembro",46,2013-01-01
+2014,"Rio","Dezembro",47,2014-01-01
+2015,"Rio","Dezembro",74,2015-01-01
+2016,"Rio","Dezembro",75,2016-01-01
+1998,"Rio","Janeiro",0,1998-01-01
+1999,"Rio","Janeiro",63,1999-01-01
+2000,"Rio","Janeiro",126,2000-01-01
+2001,"Rio","Janeiro",12,2001-01-01
+2002,"Rio","Janeiro",265,2002-01-01
+2003,"Rio","Janeiro",58,2003-01-01
+2004,"Rio","Janeiro",70,2004-01-01
+2005,"Rio","Janeiro",152,2005-01-01
+2006,"Rio","Janeiro",46,2006-01-01
+2007,"Rio","Janeiro",37,2007-01-01
+2008,"Rio","Janeiro",42,2008-01-01
+2009,"Rio","Janeiro",65,2009-01-01
+2010,"Rio","Janeiro",22,2010-01-01
+2011,"Rio","Janeiro",33,2011-01-01
+2012,"Rio","Janeiro",61,2012-01-01
+2013,"Rio","Janeiro",22,2013-01-01
+2014,"Rio","Janeiro",53,2014-01-01
+2015,"Rio","Janeiro",51,2015-01-01
+2016,"Rio","Janeiro",68,2016-01-01
+2017,"Rio","Janeiro",28,2017-01-01
+1998,"Rio","Fevereiro",0,1998-01-01
+1999,"Rio","Fevereiro",35,1999-01-01
+2000,"Rio","Fevereiro",43,2000-01-01
+2001,"Rio","Fevereiro",32,2001-01-01
+2002,"Rio","Fevereiro",38,2002-01-01
+2003,"Rio","Fevereiro",13,2003-01-01
+2004,"Rio","Fevereiro",52,2004-01-01
+2005,"Rio","Fevereiro",36,2005-01-01
+2006,"Rio","Fevereiro",34,2006-01-01
+2007,"Rio","Fevereiro",24,2007-01-01
+2008,"Rio","Fevereiro",30,2008-01-01
+2009,"Rio","Fevereiro",15,2009-01-01
+2010,"Rio","Fevereiro",23,2010-01-01
+2011,"Rio","Fevereiro",26,2011-01-01
+2012,"Rio","Fevereiro",39,2012-01-01
+2013,"Rio","Fevereiro",43,2013-01-01
+2014,"Rio","Fevereiro",37,2014-01-01
+2015,"Rio","Fevereiro",41,2015-01-01
+2016,"Rio","Fevereiro",55,2016-01-01
+2017,"Rio","Fevereiro",31,2017-01-01
+1998,"Rio","Mar�o",0,1998-01-01
+1999,"Rio","Mar�o",38,1999-01-01
+2000,"Rio","Mar�o",51,2000-01-01
+2001,"Rio","Mar�o",11,2001-01-01
+2002,"Rio","Mar�o",26,2002-01-01
+2003,"Rio","Mar�o",27,2003-01-01
+2004,"Rio","Mar�o",149,2004-01-01
+2005,"Rio","Mar�o",153,2005-01-01
+2006,"Rio","Mar�o",76,2006-01-01
+2007,"Rio","Mar�o",8,2007-01-01
+2008,"Rio","Mar�o",38,2008-01-01
+2009,"Rio","Mar�o",41,2009-01-01
+2010,"Rio","Mar�o",21,2010-01-01
+2011,"Rio","Mar�o",31,2011-01-01
+2012,"Rio","Mar�o",50,2012-01-01
+2013,"Rio","Mar�o",44,2013-01-01
+2014,"Rio","Mar�o",58,2014-01-01
+2015,"Rio","Mar�o",108,2015-01-01
+2016,"Rio","Mar�o",30,2016-01-01
+2017,"Rio","Mar�o",34,2017-01-01
+1998,"Rio","Abril",0,1998-01-01
+1999,"Rio","Abril",12,1999-01-01
+2000,"Rio","Abril",1,2000-01-01
+2001,"Rio","Abril",3,2001-01-01
+2002,"Rio","Abril",6,2002-01-01
+2003,"Rio","Abril",30,2003-01-01
+2004,"Rio","Abril",98,2004-01-01
+2005,"Rio","Abril",14,2005-01-01
+2006,"Rio","Abril",59,2006-01-01
+2007,"Rio","Abril",4,2007-01-01
+2008,"Rio","Abril",110,2008-01-01
+2009,"Rio","Abril",145,2009-01-01
+2010,"Rio","Abril",72,2010-01-01
+2011,"Rio","Abril",41,2011-01-01
+2012,"Rio","Abril",41,2012-01-01
+2013,"Rio","Abril",47,2013-01-01
+2014,"Rio","Abril",60,2014-01-01
+2015,"Rio","Abril",175,2015-01-01
+2016,"Rio","Abril",32,2016-01-01
+2017,"Rio","Abril",51,2017-01-01
+1998,"Rio","Maio",0,1998-01-01
+1999,"Rio","Maio",13,1999-01-01
+2000,"Rio","Maio",4,2000-01-01
+2001,"Rio","Maio",4,2001-01-01
+2002,"Rio","Maio",7,2002-01-01
+2003,"Rio","Maio",18,2003-01-01
+2004,"Rio","Maio",4,2004-01-01
+2005,"Rio","Maio",24,2005-01-01
+2006,"Rio","Maio",24,2006-01-01
+2007,"Rio","Maio",3,2007-01-01
+2008,"Rio","Maio",20,2008-01-01
+2009,"Rio","Maio",177,2009-01-01
+2010,"Rio","Maio",9,2010-01-01
+2011,"Rio","Maio",20,2011-01-01
+2012,"Rio","Maio",112,2012-01-01
+2013,"Rio","Maio",14,2013-01-01
+2014,"Rio","Maio",63,2014-01-01
+2015,"Rio","Maio",169,2015-01-01
+2016,"Rio","Maio",37,2016-01-01
+2017,"Rio","Maio",43,2017-01-01
+1998,"Rio","Junho",0,1998-01-01
+1999,"Rio","Junho",9,1999-01-01
+2000,"Rio","Junho",0,2000-01-01
+2001,"Rio","Junho",1,2001-01-01
+2002,"Rio","Junho",4,2002-01-01
+2003,"Rio","Junho",14,2003-01-01
+2004,"Rio","Junho",52,2004-01-01
+2005,"Rio","Junho",50,2005-01-01
+2006,"Rio","Junho",7,2006-01-01
+2007,"Rio","Junho",10,2007-01-01
+2008,"Rio","Junho",16,2008-01-01
+2009,"Rio","Junho",30,2009-01-01
+2010,"Rio","Junho",4,2010-01-01
+2011,"Rio","Junho",12,2011-01-01
+2012,"Rio","Junho",86,2012-01-01
+2013,"Rio","Junho",10,2013-01-01
+2014,"Rio","Junho",62,2014-01-01
+2015,"Rio","Junho",68,2015-01-01
+2016,"Rio","Junho",261,2016-01-01
+2017,"Rio","Junho",103,2017-01-01
+1998,"Rio","Julho",0,1998-01-01
+1999,"Rio","Julho",10,1999-01-01
+2000,"Rio","Julho",6,2000-01-01
+2001,"Rio","Julho",6,2001-01-01
+2002,"Rio","Julho",93,2002-01-01
+2003,"Rio","Julho",55,2003-01-01
+2004,"Rio","Julho",156,2004-01-01
+2005,"Rio","Julho",47,2005-01-01
+2006,"Rio","Julho",45,2006-01-01
+2007,"Rio","Julho",7,2007-01-01
+2008,"Rio","Julho",25,2008-01-01
+2009,"Rio","Julho",47,2009-01-01
+2010,"Rio","Julho",34,2010-01-01
+2011,"Rio","Julho",45,2011-01-01
+2012,"Rio","Julho",134,2012-01-01
+2013,"Rio","Julho",42,2013-01-01
+2014,"Rio","Julho",209,2014-01-01
+2015,"Rio","Julho",60,2015-01-01
+2016,"Rio","Julho",865,2016-01-01
+2017,"Rio","Julho",885,2017-01-01
+1998,"Rio","Agosto",9,1998-01-01
+1999,"Rio","Agosto",24,1999-01-01
+2000,"Rio","Agosto",18,2000-01-01
+2001,"Rio","Agosto",36,2001-01-01
+2002,"Rio","Agosto",824,2002-01-01
+2003,"Rio","Agosto",1.419,2003-01-01
+2004,"Rio","Agosto",403,2004-01-01
+2005,"Rio","Agosto",120,2005-01-01
+2006,"Rio","Agosto",642,2006-01-01
+2007,"Rio","Agosto",258,2007-01-01
+2008,"Rio","Agosto",56,2008-01-01
+2009,"Rio","Agosto",1.057,2009-01-01
+2010,"Rio","Agosto",267,2010-01-01
+2011,"Rio","Agosto",116,2011-01-01
+2012,"Rio","Agosto",410,2012-01-01
+2013,"Rio","Agosto",156,2013-01-01
+2014,"Rio","Agosto",1.168,2014-01-01
+2015,"Rio","Agosto",414,2015-01-01
+2016,"Rio","Agosto",1.111,2016-01-01
+2017,"Rio","Agosto",819,2017-01-01
+1998,"Rio","Setembro",60,1998-01-01
+1999,"Rio","Setembro",19,1999-01-01
+2000,"Rio","Setembro",27,2000-01-01
+2001,"Rio","Setembro",2,2001-01-01
+2002,"Rio","Setembro",226,2002-01-01
+2003,"Rio","Setembro",828,2003-01-01
+2004,"Rio","Setembro",431,2004-01-01
+2005,"Rio","Setembro",189,2005-01-01
+2006,"Rio","Setembro",444,2006-01-01
+2007,"Rio","Setembro",573,2007-01-01
+2008,"Rio","Setembro",97,2008-01-01
+2009,"Rio","Setembro",39,2009-01-01
+2010,"Rio","Setembro",250,2010-01-01
+2011,"Rio","Setembro",449,2011-01-01
+2012,"Rio","Setembro",113,2012-01-01
+2013,"Rio","Setembro",290,2013-01-01
+2014,"Rio","Setembro",224,2014-01-01
+2015,"Rio","Setembro",222,2015-01-01
+2016,"Rio","Setembro",628,2016-01-01
+2017,"Rio","Setembro",343,2017-01-01
+1998,"Rio","Outubro",169,1998-01-01
+1999,"Rio","Outubro",56,1999-01-01
+2000,"Rio","Outubro",10,2000-01-01
+2001,"Rio","Outubro",13,2001-01-01
+2002,"Rio","Outubro",10,2002-01-01
+2003,"Rio","Outubro",360,2003-01-01
+2004,"Rio","Outubro",680,2004-01-01
+2005,"Rio","Outubro",83,2005-01-01
+2006,"Rio","Outubro",160,2006-01-01
+2007,"Rio","Outubro",21,2007-01-01
+2008,"Rio","Outubro",135,2008-01-01
+2009,"Rio","Outubro",148,2009-01-01
+2010,"Rio","Outubro",95,2010-01-01
+2011,"Rio","Outubro",74,2011-01-01
+2012,"Rio","Outubro",91,2012-01-01
+2013,"Rio","Outubro",104,2013-01-01
+2014,"Rio","Outubro",110,2014-01-01
+2015,"Rio","Outubro",70,2015-01-01
+2016,"Rio","Outubro",93,2016-01-01
+2017,"Rio","Outubro",101,2017-01-01
+1998,"Rio","Novembro",28,1998-01-01
+1999,"Rio","Novembro",103,1999-01-01
+2000,"Rio","Novembro",18,2000-01-01
+2001,"Rio","Novembro",49,2001-01-01
+2002,"Rio","Novembro",117,2002-01-01
+2003,"Rio","Novembro",121,2003-01-01
+2004,"Rio","Novembro",161,2004-01-01
+2005,"Rio","Novembro",227,2005-01-01
+2006,"Rio","Novembro",27,2006-01-01
+2007,"Rio","Novembro",13,2007-01-01
+2008,"Rio","Novembro",14,2008-01-01
+2009,"Rio","Novembro",4,2009-01-01
+2010,"Rio","Novembro",90,2010-01-01
+2011,"Rio","Novembro",117,2011-01-01
+2012,"Rio","Novembro",74,2012-01-01
+2013,"Rio","Novembro",110,2013-01-01
+2014,"Rio","Novembro",68,2014-01-01
+2015,"Rio","Novembro",30,2015-01-01
+2016,"Rio","Novembro",105,2016-01-01
+2017,"Rio","Novembro",137,2017-01-01
+1998,"Rio","Dezembro",605,1998-01-01
+1999,"Rio","Dezembro",1.11,1999-01-01
+2000,"Rio","Dezembro",80,2000-01-01
+2001,"Rio","Dezembro",80,2001-01-01
+2002,"Rio","Dezembro",45,2002-01-01
+2003,"Rio","Dezembro",98,2003-01-01
+2004,"Rio","Dezembro",99,2004-01-01
+2005,"Rio","Dezembro",35,2005-01-01
+2006,"Rio","Dezembro",15,2006-01-01
+2007,"Rio","Dezembro",25,2007-01-01
+2008,"Rio","Dezembro",32,2008-01-01
+2009,"Rio","Dezembro",15,2009-01-01
+2010,"Rio","Dezembro",103,2010-01-01
+2011,"Rio","Dezembro",69,2011-01-01
+2012,"Rio","Dezembro",38,2012-01-01
+2013,"Rio","Dezembro",62,2013-01-01
+2014,"Rio","Dezembro",31,2014-01-01
+2015,"Rio","Dezembro",42,2015-01-01
+2016,"Rio","Dezembro",79,2016-01-01
+1998,"Rondonia","Janeiro",0,1998-01-01
+1999,"Rondonia","Janeiro",1,1999-01-01
+2000,"Rondonia","Janeiro",0,2000-01-01
+2001,"Rondonia","Janeiro",0,2001-01-01
+2002,"Rondonia","Janeiro",6,2002-01-01
+2003,"Rondonia","Janeiro",62,2003-01-01
+2004,"Rondonia","Janeiro",30,2004-01-01
+2005,"Rondonia","Janeiro",99,2005-01-01
+2006,"Rondonia","Janeiro",16,2006-01-01
+2007,"Rondonia","Janeiro",33,2007-01-01
+2008,"Rondonia","Janeiro",4,2008-01-01
+2009,"Rondonia","Janeiro",17,2009-01-01
+2010,"Rondonia","Janeiro",18,2010-01-01
+2011,"Rondonia","Janeiro",1,2011-01-01
+2012,"Rondonia","Janeiro",2,2012-01-01
+2013,"Rondonia","Janeiro",7,2013-01-01
+2014,"Rondonia","Janeiro",12,2014-01-01
+2015,"Rondonia","Janeiro",30,2015-01-01
+2016,"Rondonia","Janeiro",93,2016-01-01
+2017,"Rondonia","Janeiro",44,2017-01-01
+1998,"Rondonia","Fevereiro",0,1998-01-01
+1999,"Rondonia","Fevereiro",1,1999-01-01
+2000,"Rondonia","Fevereiro",6,2000-01-01
+2001,"Rondonia","Fevereiro",2,2001-01-01
+2002,"Rondonia","Fevereiro",8,2002-01-01
+2003,"Rondonia","Fevereiro",10,2003-01-01
+2004,"Rondonia","Fevereiro",12,2004-01-01
+2005,"Rondonia","Fevereiro",42,2005-01-01
+2006,"Rondonia","Fevereiro",17,2006-01-01
+2007,"Rondonia","Fevereiro",8,2007-01-01
+2008,"Rondonia","Fevereiro",7,2008-01-01
+2009,"Rondonia","Fevereiro",1,2009-01-01
+2010,"Rondonia","Fevereiro",9,2010-01-01
+2011,"Rondonia","Fevereiro",2,2011-01-01
+2012,"Rondonia","Fevereiro",9,2012-01-01
+2013,"Rondonia","Fevereiro",8,2013-01-01
+2014,"Rondonia","Fevereiro",5,2014-01-01
+2015,"Rondonia","Fevereiro",22,2015-01-01
+2016,"Rondonia","Fevereiro",88,2016-01-01
+2017,"Rondonia","Fevereiro",10,2017-01-01
+1998,"Rondonia","Mar�o",0,1998-01-01
+1999,"Rondonia","Mar�o",8,1999-01-01
+2000,"Rondonia","Mar�o",9,2000-01-01
+2001,"Rondonia","Mar�o",0,2001-01-01
+2002,"Rondonia","Mar�o",1,2002-01-01
+2003,"Rondonia","Mar�o",13,2003-01-01
+2004,"Rondonia","Mar�o",20,2004-01-01
+2005,"Rondonia","Mar�o",17,2005-01-01
+2006,"Rondonia","Mar�o",15,2006-01-01
+2007,"Rondonia","Mar�o",20,2007-01-01
+2008,"Rondonia","Mar�o",2,2008-01-01
+2009,"Rondonia","Mar�o",12,2009-01-01
+2010,"Rondonia","Mar�o",11,2010-01-01
+2011,"Rondonia","Mar�o",6,2011-01-01
+2012,"Rondonia","Mar�o",6,2012-01-01
+2013,"Rondonia","Mar�o",23,2013-01-01
+2014,"Rondonia","Mar�o",13,2014-01-01
+2015,"Rondonia","Mar�o",15,2015-01-01
+2016,"Rondonia","Mar�o",25,2016-01-01
+2017,"Rondonia","Mar�o",21,2017-01-01
+1998,"Rondonia","Abril",0,1998-01-01
+1999,"Rondonia","Abril",3,1999-01-01
+2000,"Rondonia","Abril",0,2000-01-01
+2001,"Rondonia","Abril",0,2001-01-01
+2002,"Rondonia","Abril",3,2002-01-01
+2003,"Rondonia","Abril",10,2003-01-01
+2004,"Rondonia","Abril",14,2004-01-01
+2005,"Rondonia","Abril",7,2005-01-01
+2006,"Rondonia","Abril",0,2006-01-01
+2007,"Rondonia","Abril",0,2007-01-01
+2008,"Rondonia","Abril",8,2008-01-01
+2009,"Rondonia","Abril",3,2009-01-01
+2010,"Rondonia","Abril",19,2010-01-01
+2011,"Rondonia","Abril",8,2011-01-01
+2012,"Rondonia","Abril",12,2012-01-01
+2013,"Rondonia","Abril",9,2013-01-01
+2014,"Rondonia","Abril",15,2014-01-01
+2015,"Rondonia","Abril",15,2015-01-01
+2016,"Rondonia","Abril",59,2016-01-01
+2017,"Rondonia","Abril",19,2017-01-01
+1998,"Rondonia","Maio",0,1998-01-01
+1999,"Rondonia","Maio",3,1999-01-01
+2000,"Rondonia","Maio",13,2000-01-01
+2001,"Rondonia","Maio",5,2001-01-01
+2002,"Rondonia","Maio",10,2002-01-01
+2003,"Rondonia","Maio",21,2003-01-01
+2004,"Rondonia","Maio",9,2004-01-01
+2005,"Rondonia","Maio",38,2005-01-01
+2006,"Rondonia","Maio",7,2006-01-01
+2007,"Rondonia","Maio",4,2007-01-01
+2008,"Rondonia","Maio",1,2008-01-01
+2009,"Rondonia","Maio",6,2009-01-01
+2010,"Rondonia","Maio",41,2010-01-01
+2011,"Rondonia","Maio",54,2011-01-01
+2012,"Rondonia","Maio",22,2012-01-01
+2013,"Rondonia","Maio",9,2013-01-01
+2014,"Rondonia","Maio",28,2014-01-01
+2015,"Rondonia","Maio",13,2015-01-01
+2016,"Rondonia","Maio",44,2016-01-01
+2017,"Rondonia","Maio",31,2017-01-01
+1998,"Rondonia","Junho",26,1998-01-01
+1999,"Rondonia","Junho",10,1999-01-01
+2000,"Rondonia","Junho",54,2000-01-01
+2001,"Rondonia","Junho",31,2001-01-01
+2002,"Rondonia","Junho",141,2002-01-01
+2003,"Rondonia","Junho",74,2003-01-01
+2004,"Rondonia","Junho",151,2004-01-01
+2005,"Rondonia","Junho",153,2005-01-01
+2006,"Rondonia","Junho",40,2006-01-01
+2007,"Rondonia","Junho",71,2007-01-01
+2008,"Rondonia","Junho",11,2008-01-01
+2009,"Rondonia","Junho",13,2009-01-01
+2010,"Rondonia","Junho",44,2010-01-01
+2011,"Rondonia","Junho",130,2011-01-01
+2012,"Rondonia","Junho",32,2012-01-01
+2013,"Rondonia","Junho",22,2013-01-01
+2014,"Rondonia","Junho",92,2014-01-01
+2015,"Rondonia","Junho",119,2015-01-01
+2016,"Rondonia","Junho",170,2016-01-01
+2017,"Rondonia","Junho",192,2017-01-01
+1998,"Rondonia","Julho",365,1998-01-01
+1999,"Rondonia","Julho",135,1999-01-01
+2000,"Rondonia","Julho",117,2000-01-01
+2001,"Rondonia","Julho",74,2001-01-01
+2002,"Rondonia","Julho",539,2002-01-01
+2003,"Rondonia","Julho",516,2003-01-01
+2004,"Rondonia","Julho",1.233,2004-01-01
+2005,"Rondonia","Julho",798,2005-01-01
+2006,"Rondonia","Julho",314,2006-01-01
+2007,"Rondonia","Julho",187,2007-01-01
+2008,"Rondonia","Julho",138,2008-01-01
+2009,"Rondonia","Julho",110,2009-01-01
+2010,"Rondonia","Julho",747,2010-01-01
+2011,"Rondonia","Julho",293,2011-01-01
+2012,"Rondonia","Julho",205,2012-01-01
+2013,"Rondonia","Julho",117,2013-01-01
+2014,"Rondonia","Julho",192,2014-01-01
+2015,"Rondonia","Julho",423,2015-01-01
+2016,"Rondonia","Julho",969,2016-01-01
+2017,"Rondonia","Julho",1.28,2017-01-01
+1998,"Rondonia","Agosto",2.254,1998-01-01
+1999,"Rondonia","Agosto",1.976,1999-01-01
+2000,"Rondonia","Agosto",2.197,2000-01-01
+2001,"Rondonia","Agosto",2.132,2001-01-01
+2002,"Rondonia","Agosto",3.465,2002-01-01
+2003,"Rondonia","Agosto",7.06,2003-01-01
+2004,"Rondonia","Agosto",6.893,2004-01-01
+2005,"Rondonia","Agosto",6.672,2005-01-01
+2006,"Rondonia","Agosto",3.124,2006-01-01
+2007,"Rondonia","Agosto",4.786,2007-01-01
+2008,"Rondonia","Agosto",1.251,2008-01-01
+2009,"Rondonia","Agosto",484,2009-01-01
+2010,"Rondonia","Agosto",4.388,2010-01-01
+2011,"Rondonia","Agosto",1.161,2011-01-01
+2012,"Rondonia","Agosto",2.209,2012-01-01
+2013,"Rondonia","Agosto",885,2013-01-01
+2014,"Rondonia","Agosto",3.038,2014-01-01
+2015,"Rondonia","Agosto",3.762,2015-01-01
+2016,"Rondonia","Agosto",3.675,2016-01-01
+2017,"Rondonia","Agosto",4.287,2017-01-01
+1998,"Rondonia","Setembro",3.753,1998-01-01
+1999,"Rondonia","Setembro",3.062,1999-01-01
+2000,"Rondonia","Setembro",2.438,2000-01-01
+2001,"Rondonia","Setembro",1.927,2001-01-01
+2002,"Rondonia","Setembro",7.067,2002-01-01
+2003,"Rondonia","Setembro",6.89,2003-01-01
+2004,"Rondonia","Setembro",13.05,2004-01-01
+2005,"Rondonia","Setembro",13.972,2005-01-01
+2006,"Rondonia","Setembro",9.92,2006-01-01
+2007,"Rondonia","Setembro",6.832,2007-01-01
+2008,"Rondonia","Setembro",3.726,2008-01-01
+2009,"Rondonia","Setembro",1.869,2009-01-01
+2010,"Rondonia","Setembro",4.893,2010-01-01
+2011,"Rondonia","Setembro",1.782,2011-01-01
+2012,"Rondonia","Setembro",2.471,2012-01-01
+2013,"Rondonia","Setembro",1.776,2013-01-01
+2014,"Rondonia","Setembro",2.8,2014-01-01
+2015,"Rondonia","Setembro",6.129,2015-01-01
+2016,"Rondonia","Setembro",4.208,2016-01-01
+2017,"Rondonia","Setembro",5.638,2017-01-01
+1998,"Rondonia","Outubro",483,1998-01-01
+1999,"Rondonia","Outubro",1.884,1999-01-01
+2000,"Rondonia","Outubro",644,2000-01-01
+2001,"Rondonia","Outubro",796,2001-01-01
+2002,"Rondonia","Outubro",3.554,2002-01-01
+2003,"Rondonia","Outubro",4.962,2003-01-01
+2004,"Rondonia","Outubro",3.094,2004-01-01
+2005,"Rondonia","Outubro",2.559,2005-01-01
+2006,"Rondonia","Outubro",1.148,2006-01-01
+2007,"Rondonia","Outubro",2.023,2007-01-01
+2008,"Rondonia","Outubro",1.482,2008-01-01
+2009,"Rondonia","Outubro",1.444,2009-01-01
+2010,"Rondonia","Outubro",1.307,2010-01-01
+2011,"Rondonia","Outubro",822,2011-01-01
+2012,"Rondonia","Outubro",1.229,2012-01-01
+2013,"Rondonia","Outubro",555,2013-01-01
+2014,"Rondonia","Outubro",1.063,2014-01-01
+2015,"Rondonia","Outubro",2.598,2015-01-01
+2016,"Rondonia","Outubro",1.844,2016-01-01
+2017,"Rondonia","Outubro",2.19,2017-01-01
+1998,"Rondonia","Novembro",3,1998-01-01
+1999,"Rondonia","Novembro",41,1999-01-01
+2000,"Rondonia","Novembro",13,2000-01-01
+2001,"Rondonia","Novembro",91,2001-01-01
+2002,"Rondonia","Novembro",639,2002-01-01
+2003,"Rondonia","Novembro",526,2003-01-01
+2004,"Rondonia","Novembro",452,2004-01-01
+2005,"Rondonia","Novembro",465,2005-01-01
+2006,"Rondonia","Novembro",253,2006-01-01
+2007,"Rondonia","Novembro",53,2007-01-01
+2008,"Rondonia","Novembro",78,2008-01-01
+2009,"Rondonia","Novembro",128,2009-01-01
+2010,"Rondonia","Novembro",238,2010-01-01
+2011,"Rondonia","Novembro",245,2011-01-01
+2012,"Rondonia","Novembro",174,2012-01-01
+2013,"Rondonia","Novembro",108,2013-01-01
+2014,"Rondonia","Novembro",202,2014-01-01
+2015,"Rondonia","Novembro",1.002,2015-01-01
+2016,"Rondonia","Novembro",401,2016-01-01
+2017,"Rondonia","Novembro",372,2017-01-01
+1998,"Rondonia","Dezembro",33,1998-01-01
+1999,"Rondonia","Dezembro",0,1999-01-01
+2000,"Rondonia","Dezembro",7,2000-01-01
+2001,"Rondonia","Dezembro",1,2001-01-01
+2002,"Rondonia","Dezembro",91,2002-01-01
+2003,"Rondonia","Dezembro",214,2003-01-01
+2004,"Rondonia","Dezembro",208,2004-01-01
+2005,"Rondonia","Dezembro",36,2005-01-01
+2006,"Rondonia","Dezembro",4,2006-01-01
+2007,"Rondonia","Dezembro",6,2007-01-01
+2008,"Rondonia","Dezembro",2,2008-01-01
+2009,"Rondonia","Dezembro",9,2009-01-01
+2010,"Rondonia","Dezembro",158,2010-01-01
+2011,"Rondonia","Dezembro",37,2011-01-01
+2012,"Rondonia","Dezembro",50,2012-01-01
+2013,"Rondonia","Dezembro",143,2013-01-01
+2014,"Rondonia","Dezembro",144,2014-01-01
+2015,"Rondonia","Dezembro",282,2015-01-01
+2016,"Rondonia","Dezembro",148,2016-01-01
+1998,"Roraima","Janeiro",0,1998-01-01
+1999,"Roraima","Janeiro",15,1999-01-01
+2000,"Roraima","Janeiro",18,2000-01-01
+2001,"Roraima","Janeiro",101,2001-01-01
+2002,"Roraima","Janeiro",302,2002-01-01
+2003,"Roraima","Janeiro",547,2003-01-01
+2004,"Roraima","Janeiro",355,2004-01-01
+2005,"Roraima","Janeiro",106,2005-01-01
+2006,"Roraima","Janeiro",70,2006-01-01
+2007,"Roraima","Janeiro",194,2007-01-01
+2008,"Roraima","Janeiro",245,2008-01-01
+2009,"Roraima","Janeiro",45,2009-01-01
+2010,"Roraima","Janeiro",351,2010-01-01
+2011,"Roraima","Janeiro",225,2011-01-01
+2012,"Roraima","Janeiro",217,2012-01-01
+2013,"Roraima","Janeiro",397,2013-01-01
+2014,"Roraima","Janeiro",355,2014-01-01
+2015,"Roraima","Janeiro",330,2015-01-01
+2016,"Roraima","Janeiro",1.754,2016-01-01
+2017,"Roraima","Janeiro",108,2017-01-01
+1998,"Roraima","Fevereiro",0,1998-01-01
+1999,"Roraima","Fevereiro",20,1999-01-01
+2000,"Roraima","Fevereiro",57,2000-01-01
+2001,"Roraima","Fevereiro",646,2001-01-01
+2002,"Roraima","Fevereiro",476,2002-01-01
+2003,"Roraima","Fevereiro",767,2003-01-01
+2004,"Roraima","Fevereiro",259,2004-01-01
+2005,"Roraima","Fevereiro",105,2005-01-01
+2006,"Roraima","Fevereiro",283,2006-01-01
+2007,"Roraima","Fevereiro",796,2007-01-01
+2008,"Roraima","Fevereiro",138,2008-01-01
+2009,"Roraima","Fevereiro",153,2009-01-01
+2010,"Roraima","Fevereiro",470,2010-01-01
+2011,"Roraima","Fevereiro",112,2011-01-01
+2012,"Roraima","Fevereiro",130,2012-01-01
+2013,"Roraima","Fevereiro",62,2013-01-01
+2014,"Roraima","Fevereiro",226,2014-01-01
+2015,"Roraima","Fevereiro",418,2015-01-01
+2016,"Roraima","Fevereiro",171,2016-01-01
+2017,"Roraima","Fevereiro",129,2017-01-01
+1998,"Roraima","Mar�o",0,1998-01-01
+1999,"Roraima","Mar�o",98,1999-01-01
+2000,"Roraima","Mar�o",125,2000-01-01
+2001,"Roraima","Mar�o",1.108,2001-01-01
+2002,"Roraima","Mar�o",820,2002-01-01
+2003,"Roraima","Mar�o",1.131,2003-01-01
+2004,"Roraima","Mar�o",276,2004-01-01
+2005,"Roraima","Mar�o",244,2005-01-01
+2006,"Roraima","Mar�o",385,2006-01-01
+2007,"Roraima","Mar�o",665,2007-01-01
+2008,"Roraima","Mar�o",422,2008-01-01
+2009,"Roraima","Mar�o",176,2009-01-01
+2010,"Roraima","Mar�o",417,2010-01-01
+2011,"Roraima","Mar�o",91,2011-01-01
+2012,"Roraima","Mar�o",99,2012-01-01
+2013,"Roraima","Mar�o",179,2013-01-01
+2014,"Roraima","Mar�o",494,2014-01-01
+2015,"Roraima","Mar�o",163,2015-01-01
+2016,"Roraima","Mar�o",1.081,2016-01-01
+2017,"Roraima","Mar�o",216,2017-01-01
+1998,"Roraima","Abril",0,1998-01-01
+1999,"Roraima","Abril",16,1999-01-01
+2000,"Roraima","Abril",0,2000-01-01
+2001,"Roraima","Abril",380,2001-01-01
+2002,"Roraima","Abril",41,2002-01-01
+2003,"Roraima","Abril",268,2003-01-01
+2004,"Roraima","Abril",182,2004-01-01
+2005,"Roraima","Abril",22,2005-01-01
+2006,"Roraima","Abril",201,2006-01-01
+2007,"Roraima","Abril",58,2007-01-01
+2008,"Roraima","Abril",175,2008-01-01
+2009,"Roraima","Abril",115,2009-01-01
+2010,"Roraima","Abril",15,2010-01-01
+2011,"Roraima","Abril",108,2011-01-01
+2012,"Roraima","Abril",25,2012-01-01
+2013,"Roraima","Abril",87,2013-01-01
+2014,"Roraima","Abril",162,2014-01-01
+2015,"Roraima","Abril",278,2015-01-01
+2016,"Roraima","Abril",126,2016-01-01
+2017,"Roraima","Abril",51,2017-01-01
+1998,"Roraima","Maio",0,1998-01-01
+1999,"Roraima","Maio",0,1999-01-01
+2000,"Roraima","Maio",7,2000-01-01
+2001,"Roraima","Maio",9,2001-01-01
+2002,"Roraima","Maio",0,2002-01-01
+2003,"Roraima","Maio",0,2003-01-01
+2004,"Roraima","Maio",2,2004-01-01
+2005,"Roraima","Maio",1,2005-01-01
+2006,"Roraima","Maio",0,2006-01-01
+2007,"Roraima","Maio",0,2007-01-01
+2008,"Roraima","Maio",8,2008-01-01
+2009,"Roraima","Maio",219,2009-01-01
+2010,"Roraima","Maio",3,2010-01-01
+2011,"Roraima","Maio",4,2011-01-01
+2012,"Roraima","Maio",18,2012-01-01
+2013,"Roraima","Maio",4,2013-01-01
+2014,"Roraima","Maio",58,2014-01-01
+2015,"Roraima","Maio",12,2015-01-01
+2016,"Roraima","Maio",22,2016-01-01
+2017,"Roraima","Maio",29,2017-01-01
+1998,"Roraima","Junho",0,1998-01-01
+1999,"Roraima","Junho",3,1999-01-01
+2000,"Roraima","Junho",0,2000-01-01
+2001,"Roraima","Junho",1,2001-01-01
+2002,"Roraima","Junho",0,2002-01-01
+2003,"Roraima","Junho",0,2003-01-01
+2004,"Roraima","Junho",6,2004-01-01
+2005,"Roraima","Junho",5,2005-01-01
+2006,"Roraima","Junho",0,2006-01-01
+2007,"Roraima","Junho",1,2007-01-01
+2008,"Roraima","Junho",0,2008-01-01
+2009,"Roraima","Junho",16,2009-01-01
+2010,"Roraima","Junho",0,2010-01-01
+2011,"Roraima","Junho",6,2011-01-01
+2012,"Roraima","Junho",22,2012-01-01
+2013,"Roraima","Junho",6,2013-01-01
+2014,"Roraima","Junho",4,2014-01-01
+2015,"Roraima","Junho",3,2015-01-01
+2016,"Roraima","Junho",7,2016-01-01
+2017,"Roraima","Junho",4,2017-01-01
+1998,"Roraima","Julho",1,1998-01-01
+1999,"Roraima","Julho",4,1999-01-01
+2000,"Roraima","Julho",0,2000-01-01
+2001,"Roraima","Julho",1,2001-01-01
+2002,"Roraima","Julho",7,2002-01-01
+2003,"Roraima","Julho",0,2003-01-01
+2004,"Roraima","Julho",2,2004-01-01
+2005,"Roraima","Julho",2,2005-01-01
+2006,"Roraima","Julho",0,2006-01-01
+2007,"Roraima","Julho",3,2007-01-01
+2008,"Roraima","Julho",0,2008-01-01
+2009,"Roraima","Julho",18,2009-01-01
+2010,"Roraima","Julho",1,2010-01-01
+2011,"Roraima","Julho",9,2011-01-01
+2012,"Roraima","Julho",2,2012-01-01
+2013,"Roraima","Julho",4,2013-01-01
+2014,"Roraima","Julho",9,2014-01-01
+2015,"Roraima","Julho",5,2015-01-01
+2016,"Roraima","Julho",0,2016-01-01
+2017,"Roraima","Julho",3,2017-01-01
+1998,"Roraima","Agosto",0,1998-01-01
+1999,"Roraima","Agosto",1,1999-01-01
+2000,"Roraima","Agosto",9,2000-01-01
+2001,"Roraima","Agosto",4,2001-01-01
+2002,"Roraima","Agosto",7,2002-01-01
+2003,"Roraima","Agosto",2,2003-01-01
+2004,"Roraima","Agosto",18,2004-01-01
+2005,"Roraima","Agosto",9,2005-01-01
+2006,"Roraima","Agosto",4,2006-01-01
+2007,"Roraima","Agosto",2,2007-01-01
+2008,"Roraima","Agosto",4,2008-01-01
+2009,"Roraima","Agosto",29,2009-01-01
+2010,"Roraima","Agosto",3,2010-01-01
+2011,"Roraima","Agosto",39,2011-01-01
+2012,"Roraima","Agosto",4,2012-01-01
+2013,"Roraima","Agosto",3,2013-01-01
+2014,"Roraima","Agosto",12,2014-01-01
+2015,"Roraima","Agosto",11,2015-01-01
+2016,"Roraima","Agosto",11,2016-01-01
+2017,"Roraima","Agosto",35,2017-01-01
+1998,"Roraima","Setembro",2,1998-01-01
+1999,"Roraima","Setembro",3,1999-01-01
+2000,"Roraima","Setembro",12,2000-01-01
+2001,"Roraima","Setembro",1,2001-01-01
+2002,"Roraima","Setembro",48,2002-01-01
+2003,"Roraima","Setembro",6,2003-01-01
+2004,"Roraima","Setembro",9,2004-01-01
+2005,"Roraima","Setembro",72,2005-01-01
+2006,"Roraima","Setembro",40,2006-01-01
+2007,"Roraima","Setembro",9,2007-01-01
+2008,"Roraima","Setembro",17,2008-01-01
+2009,"Roraima","Setembro",117,2009-01-01
+2010,"Roraima","Setembro",18,2010-01-01
+2011,"Roraima","Setembro",53,2011-01-01
+2012,"Roraima","Setembro",67,2012-01-01
+2013,"Roraima","Setembro",18,2013-01-01
+2014,"Roraima","Setembro",67,2014-01-01
+2015,"Roraima","Setembro",77,2015-01-01
+2016,"Roraima","Setembro",19,2016-01-01
+2017,"Roraima","Setembro",43,2017-01-01
+1998,"Roraima","Outubro",1,1998-01-01
+1999,"Roraima","Outubro",10,1999-01-01
+2000,"Roraima","Outubro",25,2000-01-01
+2001,"Roraima","Outubro",13,2001-01-01
+2002,"Roraima","Outubro",191,2002-01-01
+2003,"Roraima","Outubro",14,2003-01-01
+2004,"Roraima","Outubro",53,2004-01-01
+2005,"Roraima","Outubro",88,2005-01-01
+2006,"Roraima","Outubro",135,2006-01-01
+2007,"Roraima","Outubro",15,2007-01-01
+2008,"Roraima","Outubro",78,2008-01-01
+2009,"Roraima","Outubro",197,2009-01-01
+2010,"Roraima","Outubro",64,2010-01-01
+2011,"Roraima","Outubro",65,2011-01-01
+2012,"Roraima","Outubro",152,2012-01-01
+2013,"Roraima","Outubro",63,2013-01-01
+2014,"Roraima","Outubro",61,2014-01-01
+2015,"Roraima","Outubro",181,2015-01-01
+2016,"Roraima","Outubro",101,2016-01-01
+2017,"Roraima","Outubro",156,2017-01-01
+1998,"Roraima","Novembro",1,1998-01-01
+1999,"Roraima","Novembro",15,1999-01-01
+2000,"Roraima","Novembro",32,2000-01-01
+2001,"Roraima","Novembro",76,2001-01-01
+2002,"Roraima","Novembro",133,2002-01-01
+2003,"Roraima","Novembro",27,2003-01-01
+2004,"Roraima","Novembro",135,2004-01-01
+2005,"Roraima","Novembro",135,2005-01-01
+2006,"Roraima","Novembro",26,2006-01-01
+2007,"Roraima","Novembro",112,2007-01-01
+2008,"Roraima","Novembro",39,2008-01-01
+2009,"Roraima","Novembro",312,2009-01-01
+2010,"Roraima","Novembro",27,2010-01-01
+2011,"Roraima","Novembro",121,2011-01-01
+2012,"Roraima","Novembro",187,2012-01-01
+2013,"Roraima","Novembro",106,2013-01-01
+2014,"Roraima","Novembro",143,2014-01-01
+2015,"Roraima","Novembro",280,2015-01-01
+2016,"Roraima","Novembro",71,2016-01-01
+2017,"Roraima","Novembro",327,2017-01-01
+1998,"Roraima","Dezembro",16,1998-01-01
+1999,"Roraima","Dezembro",35,1999-01-01
+2000,"Roraima","Dezembro",77,2000-01-01
+2001,"Roraima","Dezembro",76,2001-01-01
+2002,"Roraima","Dezembro",199,2002-01-01
+2003,"Roraima","Dezembro",157,2003-01-01
+2004,"Roraima","Dezembro",160,2004-01-01
+2005,"Roraima","Dezembro",71,2005-01-01
+2006,"Roraima","Dezembro",101,2006-01-01
+2007,"Roraima","Dezembro",8,2007-01-01
+2008,"Roraima","Dezembro",5,2008-01-01
+2009,"Roraima","Dezembro",290,2009-01-01
+2010,"Roraima","Dezembro",73,2010-01-01
+2011,"Roraima","Dezembro",249,2011-01-01
+2012,"Roraima","Dezembro",78,2012-01-01
+2013,"Roraima","Dezembro",65,2013-01-01
+2014,"Roraima","Dezembro",277,2014-01-01
+2015,"Roraima","Dezembro",304,2015-01-01
+2016,"Roraima","Dezembro",136,2016-01-01
+1998,"Santa Catarina","Janeiro",0,1998-01-01
+1999,"Santa Catarina","Janeiro",11,1999-01-01
+2000,"Santa Catarina","Janeiro",14,2000-01-01
+2001,"Santa Catarina","Janeiro",11,2001-01-01
+2002,"Santa Catarina","Janeiro",22,2002-01-01
+2003,"Santa Catarina","Janeiro",45,2003-01-01
+2004,"Santa Catarina","Janeiro",37,2004-01-01
+2005,"Santa Catarina","Janeiro",46,2005-01-01
+2006,"Santa Catarina","Janeiro",41,2006-01-01
+2007,"Santa Catarina","Janeiro",9,2007-01-01
+2008,"Santa Catarina","Janeiro",25,2008-01-01
+2009,"Santa Catarina","Janeiro",21,2009-01-01
+2010,"Santa Catarina","Janeiro",2,2010-01-01
+2011,"Santa Catarina","Janeiro",9,2011-01-01
+2012,"Santa Catarina","Janeiro",14,2012-01-01
+2013,"Santa Catarina","Janeiro",18,2013-01-01
+2014,"Santa Catarina","Janeiro",58,2014-01-01
+2015,"Santa Catarina","Janeiro",28,2015-01-01
+2016,"Santa Catarina","Janeiro",53,2016-01-01
+2017,"Santa Catarina","Janeiro",46,2017-01-01
+1998,"Santa Catarina","Fevereiro",0,1998-01-01
+1999,"Santa Catarina","Fevereiro",2,1999-01-01
+2000,"Santa Catarina","Fevereiro",8,2000-01-01
+2001,"Santa Catarina","Fevereiro",0,2001-01-01
+2002,"Santa Catarina","Fevereiro",5,2002-01-01
+2003,"Santa Catarina","Fevereiro",43,2003-01-01
+2004,"Santa Catarina","Fevereiro",29,2004-01-01
+2005,"Santa Catarina","Fevereiro",46,2005-01-01
+2006,"Santa Catarina","Fevereiro",18,2006-01-01
+2007,"Santa Catarina","Fevereiro",14,2007-01-01
+2008,"Santa Catarina","Fevereiro",29,2008-01-01
+2009,"Santa Catarina","Fevereiro",7,2009-01-01
+2010,"Santa Catarina","Fevereiro",15,2010-01-01
+2011,"Santa Catarina","Fevereiro",1,2011-01-01
+2012,"Santa Catarina","Fevereiro",13,2012-01-01
+2013,"Santa Catarina","Fevereiro",12,2013-01-01
+2014,"Santa Catarina","Fevereiro",27,2014-01-01
+2015,"Santa Catarina","Fevereiro",23,2015-01-01
+2016,"Santa Catarina","Fevereiro",10,2016-01-01
+2017,"Santa Catarina","Fevereiro",31,2017-01-01
+1998,"Santa Catarina","Mar�o",0,1998-01-01
+1999,"Santa Catarina","Mar�o",7,1999-01-01
+2000,"Santa Catarina","Mar�o",46,2000-01-01
+2001,"Santa Catarina","Mar�o",1,2001-01-01
+2002,"Santa Catarina","Mar�o",12,2002-01-01
+2003,"Santa Catarina","Mar�o",58,2003-01-01
+2004,"Santa Catarina","Mar�o",73,2004-01-01
+2005,"Santa Catarina","Mar�o",92,2005-01-01
+2006,"Santa Catarina","Mar�o",48,2006-01-01
+2007,"Santa Catarina","Mar�o",23,2007-01-01
+2008,"Santa Catarina","Mar�o",14,2008-01-01
+2009,"Santa Catarina","Mar�o",33,2009-01-01
+2010,"Santa Catarina","Mar�o",9,2010-01-01
+2011,"Santa Catarina","Mar�o",8,2011-01-01
+2012,"Santa Catarina","Mar�o",65,2012-01-01
+2013,"Santa Catarina","Mar�o",14,2013-01-01
+2014,"Santa Catarina","Mar�o",15,2014-01-01
+2015,"Santa Catarina","Mar�o",37,2015-01-01
+2016,"Santa Catarina","Mar�o",21,2016-01-01
+2017,"Santa Catarina","Mar�o",12,2017-01-01
+1998,"Santa Catarina","Abril",0,1998-01-01
+1999,"Santa Catarina","Abril",0,1999-01-01
+2000,"Santa Catarina","Abril",7,2000-01-01
+2001,"Santa Catarina","Abril",1,2001-01-01
+2002,"Santa Catarina","Abril",7,2002-01-01
+2003,"Santa Catarina","Abril",120,2003-01-01
+2004,"Santa Catarina","Abril",59,2004-01-01
+2005,"Santa Catarina","Abril",25,2005-01-01
+2006,"Santa Catarina","Abril",30,2006-01-01
+2007,"Santa Catarina","Abril",2,2007-01-01
+2008,"Santa Catarina","Abril",31,2008-01-01
+2009,"Santa Catarina","Abril",57,2009-01-01
+2010,"Santa Catarina","Abril",19,2010-01-01
+2011,"Santa Catarina","Abril",5,2011-01-01
+2012,"Santa Catarina","Abril",40,2012-01-01
+2013,"Santa Catarina","Abril",46,2013-01-01
+2014,"Santa Catarina","Abril",34,2014-01-01
+2015,"Santa Catarina","Abril",32,2015-01-01
+2016,"Santa Catarina","Abril",36,2016-01-01
+2017,"Santa Catarina","Abril",26,2017-01-01
+1998,"Santa Catarina","Maio",0,1998-01-01
+1999,"Santa Catarina","Maio",1,1999-01-01
+2000,"Santa Catarina","Maio",0,2000-01-01
+2001,"Santa Catarina","Maio",2,2001-01-01
+2002,"Santa Catarina","Maio",3,2002-01-01
+2003,"Santa Catarina","Maio",84,2003-01-01
+2004,"Santa Catarina","Maio",2,2004-01-01
+2005,"Santa Catarina","Maio",21,2005-01-01
+2006,"Santa Catarina","Maio",33,2006-01-01
+2007,"Santa Catarina","Maio",2,2007-01-01
+2008,"Santa Catarina","Maio",15,2008-01-01
+2009,"Santa Catarina","Maio",33,2009-01-01
+2010,"Santa Catarina","Maio",1,2010-01-01
+2011,"Santa Catarina","Maio",16,2011-01-01
+2012,"Santa Catarina","Maio",60,2012-01-01
+2013,"Santa Catarina","Maio",52,2013-01-01
+2014,"Santa Catarina","Maio",42,2014-01-01
+2015,"Santa Catarina","Maio",70,2015-01-01
+2016,"Santa Catarina","Maio",26,2016-01-01
+2017,"Santa Catarina","Maio",36,2017-01-01
+1998,"Santa Catarina","Junho",2,1998-01-01
+1999,"Santa Catarina","Junho",0,1999-01-01
+2000,"Santa Catarina","Junho",2,2000-01-01
+2001,"Santa Catarina","Junho",1,2001-01-01
+2002,"Santa Catarina","Junho",0,2002-01-01
+2003,"Santa Catarina","Junho",68,2003-01-01
+2004,"Santa Catarina","Junho",127,2004-01-01
+2005,"Santa Catarina","Junho",58,2005-01-01
+2006,"Santa Catarina","Junho",32,2006-01-01
+2007,"Santa Catarina","Junho",11,2007-01-01
+2008,"Santa Catarina","Junho",2,2008-01-01
+2009,"Santa Catarina","Junho",14,2009-01-01
+2010,"Santa Catarina","Junho",1,2010-01-01
+2011,"Santa Catarina","Junho",26,2011-01-01
+2012,"Santa Catarina","Junho",42,2012-01-01
+2013,"Santa Catarina","Junho",31,2013-01-01
+2014,"Santa Catarina","Junho",3,2014-01-01
+2015,"Santa Catarina","Junho",104,2015-01-01
+2016,"Santa Catarina","Junho",79,2016-01-01
+2017,"Santa Catarina","Junho",70,2017-01-01
+1998,"Santa Catarina","Julho",0,1998-01-01
+1999,"Santa Catarina","Julho",2,1999-01-01
+2000,"Santa Catarina","Julho",21,2000-01-01
+2001,"Santa Catarina","Julho",5,2001-01-01
+2002,"Santa Catarina","Julho",82,2002-01-01
+2003,"Santa Catarina","Julho",43,2003-01-01
+2004,"Santa Catarina","Julho",94,2004-01-01
+2005,"Santa Catarina","Julho",90,2005-01-01
+2006,"Santa Catarina","Julho",74,2006-01-01
+2007,"Santa Catarina","Julho",12,2007-01-01
+2008,"Santa Catarina","Julho",46,2008-01-01
+2009,"Santa Catarina","Julho",26,2009-01-01
+2010,"Santa Catarina","Julho",31,2010-01-01
+2011,"Santa Catarina","Julho",31,2011-01-01
+2012,"Santa Catarina","Julho",42,2012-01-01
+2013,"Santa Catarina","Julho",69,2013-01-01
+2014,"Santa Catarina","Julho",82,2014-01-01
+2015,"Santa Catarina","Julho",45,2015-01-01
+2016,"Santa Catarina","Julho",480,2016-01-01
+2017,"Santa Catarina","Julho",591,2017-01-01
+1998,"Santa Catarina","Agosto",0,1998-01-01
+1999,"Santa Catarina","Agosto",51,1999-01-01
+2000,"Santa Catarina","Agosto",69,2000-01-01
+2001,"Santa Catarina","Agosto",24,2001-01-01
+2002,"Santa Catarina","Agosto",702,2002-01-01
+2003,"Santa Catarina","Agosto",1.513,2003-01-01
+2004,"Santa Catarina","Agosto",728,2004-01-01
+2005,"Santa Catarina","Agosto",391,2005-01-01
+2006,"Santa Catarina","Agosto",728,2006-01-01
+2007,"Santa Catarina","Agosto",462,2007-01-01
+2008,"Santa Catarina","Agosto",51,2008-01-01
+2009,"Santa Catarina","Agosto",759,2009-01-01
+2010,"Santa Catarina","Agosto",511,2010-01-01
+2011,"Santa Catarina","Agosto",175,2011-01-01
+2012,"Santa Catarina","Agosto",398,2012-01-01
+2013,"Santa Catarina","Agosto",236,2013-01-01
+2014,"Santa Catarina","Agosto",459,2014-01-01
+2015,"Santa Catarina","Agosto",379,2015-01-01
+2016,"Santa Catarina","Agosto",765,2016-01-01
+2017,"Santa Catarina","Agosto",713,2017-01-01
+1998,"Santa Catarina","Setembro",6,1998-01-01
+1999,"Santa Catarina","Setembro",101,1999-01-01
+2000,"Santa Catarina","Setembro",36,2000-01-01
+2001,"Santa Catarina","Setembro",18,2001-01-01
+2002,"Santa Catarina","Setembro",416,2002-01-01
+2003,"Santa Catarina","Setembro",1.339,2003-01-01
+2004,"Santa Catarina","Setembro",755,2004-01-01
+2005,"Santa Catarina","Setembro",116,2005-01-01
+2006,"Santa Catarina","Setembro",530,2006-01-01
+2007,"Santa Catarina","Setembro",617,2007-01-01
+2008,"Santa Catarina","Setembro",233,2008-01-01
+2009,"Santa Catarina","Setembro",47,2009-01-01
+2010,"Santa Catarina","Setembro",198,2010-01-01
+2011,"Santa Catarina","Setembro",450,2011-01-01
+2012,"Santa Catarina","Setembro",188,2012-01-01
+2013,"Santa Catarina","Setembro",303,2013-01-01
+2014,"Santa Catarina","Setembro",208,2014-01-01
+2015,"Santa Catarina","Setembro",156,2015-01-01
+2016,"Santa Catarina","Setembro",644,2016-01-01
+2017,"Santa Catarina","Setembro",626,2017-01-01
+1998,"Santa Catarina","Outubro",4,1998-01-01
+1999,"Santa Catarina","Outubro",16,1999-01-01
+2000,"Santa Catarina","Outubro",55,2000-01-01
+2001,"Santa Catarina","Outubro",26,2001-01-01
+2002,"Santa Catarina","Outubro",42,2002-01-01
+2003,"Santa Catarina","Outubro",669,2003-01-01
+2004,"Santa Catarina","Outubro",704,2004-01-01
+2005,"Santa Catarina","Outubro",197,2005-01-01
+2006,"Santa Catarina","Outubro",269,2006-01-01
+2007,"Santa Catarina","Outubro",35,2007-01-01
+2008,"Santa Catarina","Outubro",56,2008-01-01
+2009,"Santa Catarina","Outubro",252,2009-01-01
+2010,"Santa Catarina","Outubro",76,2010-01-01
+2011,"Santa Catarina","Outubro",102,2011-01-01
+2012,"Santa Catarina","Outubro",34,2012-01-01
+2013,"Santa Catarina","Outubro",107,2013-01-01
+2014,"Santa Catarina","Outubro",122,2014-01-01
+2015,"Santa Catarina","Outubro",21,2015-01-01
+2016,"Santa Catarina","Outubro",56,2016-01-01
+2017,"Santa Catarina","Outubro",51,2017-01-01
+1998,"Santa Catarina","Novembro",21,1998-01-01
+1999,"Santa Catarina","Novembro",84,1999-01-01
+2000,"Santa Catarina","Novembro",19,2000-01-01
+2001,"Santa Catarina","Novembro",66,2001-01-01
+2002,"Santa Catarina","Novembro",348,2002-01-01
+2003,"Santa Catarina","Novembro",347,2003-01-01
+2004,"Santa Catarina","Novembro",279,2004-01-01
+2005,"Santa Catarina","Novembro",384,2005-01-01
+2006,"Santa Catarina","Novembro",45,2006-01-01
+2007,"Santa Catarina","Novembro",26,2007-01-01
+2008,"Santa Catarina","Novembro",16,2008-01-01
+2009,"Santa Catarina","Novembro",61,2009-01-01
+2010,"Santa Catarina","Novembro",88,2010-01-01
+2011,"Santa Catarina","Novembro",79,2011-01-01
+2012,"Santa Catarina","Novembro",72,2012-01-01
+2013,"Santa Catarina","Novembro",84,2013-01-01
+2014,"Santa Catarina","Novembro",43,2014-01-01
+2015,"Santa Catarina","Novembro",9,2015-01-01
+2016,"Santa Catarina","Novembro",156,2016-01-01
+2017,"Santa Catarina","Novembro",152,2017-01-01
+1998,"Santa Catarina","Dezembro",26,1998-01-01
+1999,"Santa Catarina","Dezembro",89,1999-01-01
+2000,"Santa Catarina","Dezembro",29,2000-01-01
+2001,"Santa Catarina","Dezembro",45,2001-01-01
+2002,"Santa Catarina","Dezembro",76,2002-01-01
+2003,"Santa Catarina","Dezembro",129,2003-01-01
+2004,"Santa Catarina","Dezembro",68,2004-01-01
+2005,"Santa Catarina","Dezembro",17,2005-01-01
+2006,"Santa Catarina","Dezembro",7,2006-01-01
+2007,"Santa Catarina","Dezembro",17,2007-01-01
+2008,"Santa Catarina","Dezembro",29,2008-01-01
+2009,"Santa Catarina","Dezembro",20,2009-01-01
+2010,"Santa Catarina","Dezembro",23,2010-01-01
+2011,"Santa Catarina","Dezembro",24,2011-01-01
+2012,"Santa Catarina","Dezembro",32,2012-01-01
+2013,"Santa Catarina","Dezembro",74,2013-01-01
+2014,"Santa Catarina","Dezembro",45,2014-01-01
+2015,"Santa Catarina","Dezembro",19,2015-01-01
+2016,"Santa Catarina","Dezembro",20,2016-01-01
+1998,"Sao Paulo","Janeiro",0,1998-01-01
+1999,"Sao Paulo","Janeiro",7,1999-01-01
+2000,"Sao Paulo","Janeiro",36,2000-01-01
+2001,"Sao Paulo","Janeiro",26,2001-01-01
+2002,"Sao Paulo","Janeiro",19,2002-01-01
+2003,"Sao Paulo","Janeiro",59,2003-01-01
+2004,"Sao Paulo","Janeiro",37,2004-01-01
+2005,"Sao Paulo","Janeiro",26,2005-01-01
+2006,"Sao Paulo","Janeiro",76,2006-01-01
+2007,"Sao Paulo","Janeiro",14,2007-01-01
+2008,"Sao Paulo","Janeiro",34,2008-01-01
+2009,"Sao Paulo","Janeiro",12,2009-01-01
+2010,"Sao Paulo","Janeiro",45,2010-01-01
+2011,"Sao Paulo","Janeiro",75,2011-01-01
+2012,"Sao Paulo","Janeiro",38,2012-01-01
+2013,"Sao Paulo","Janeiro",36,2013-01-01
+2014,"Sao Paulo","Janeiro",99,2014-01-01
+2015,"Sao Paulo","Janeiro",120,2015-01-01
+2016,"Sao Paulo","Janeiro",85,2016-01-01
+2017,"Sao Paulo","Janeiro",28,2017-01-01
+1998,"Sao Paulo","Fevereiro",0,1998-01-01
+1999,"Sao Paulo","Fevereiro",47,1999-01-01
+2000,"Sao Paulo","Fevereiro",25,2000-01-01
+2001,"Sao Paulo","Fevereiro",25,2001-01-01
+2002,"Sao Paulo","Fevereiro",19,2002-01-01
+2003,"Sao Paulo","Fevereiro",137,2003-01-01
+2004,"Sao Paulo","Fevereiro",41,2004-01-01
+2005,"Sao Paulo","Fevereiro",78,2005-01-01
+2006,"Sao Paulo","Fevereiro",59,2006-01-01
+2007,"Sao Paulo","Fevereiro",96,2007-01-01
+2008,"Sao Paulo","Fevereiro",30,2008-01-01
+2009,"Sao Paulo","Fevereiro",65,2009-01-01
+2010,"Sao Paulo","Fevereiro",152,2010-01-01
+2011,"Sao Paulo","Fevereiro",73,2011-01-01
+2012,"Sao Paulo","Fevereiro",81,2012-01-01
+2013,"Sao Paulo","Fevereiro",100,2013-01-01
+2014,"Sao Paulo","Fevereiro",112,2014-01-01
+2015,"Sao Paulo","Fevereiro",69,2015-01-01
+2016,"Sao Paulo","Fevereiro",188,2016-01-01
+2017,"Sao Paulo","Fevereiro",107,2017-01-01
+1998,"Sao Paulo","Mar�o",0,1998-01-01
+1999,"Sao Paulo","Mar�o",78,1999-01-01
+2000,"Sao Paulo","Mar�o",26,2000-01-01
+2001,"Sao Paulo","Mar�o",35,2001-01-01
+2002,"Sao Paulo","Mar�o",111,2002-01-01
+2003,"Sao Paulo","Mar�o",86,2003-01-01
+2004,"Sao Paulo","Mar�o",73,2004-01-01
+2005,"Sao Paulo","Mar�o",73,2005-01-01
+2006,"Sao Paulo","Mar�o",106,2006-01-01
+2007,"Sao Paulo","Mar�o",152,2007-01-01
+2008,"Sao Paulo","Mar�o",72,2008-01-01
+2009,"Sao Paulo","Mar�o",55,2009-01-01
+2010,"Sao Paulo","Mar�o",111,2010-01-01
+2011,"Sao Paulo","Mar�o",45,2011-01-01
+2012,"Sao Paulo","Mar�o",99,2012-01-01
+2013,"Sao Paulo","Mar�o",57,2013-01-01
+2014,"Sao Paulo","Mar�o",75,2014-01-01
+2015,"Sao Paulo","Mar�o",68,2015-01-01
+2016,"Sao Paulo","Mar�o",82,2016-01-01
+2017,"Sao Paulo","Mar�o",103,2017-01-01
+1998,"Sao Paulo","Abril",0,1998-01-01
+1999,"Sao Paulo","Abril",291,1999-01-01
+2000,"Sao Paulo","Abril",102,2000-01-01
+2001,"Sao Paulo","Abril",61,2001-01-01
+2002,"Sao Paulo","Abril",178,2002-01-01
+2003,"Sao Paulo","Abril",106,2003-01-01
+2004,"Sao Paulo","Abril",36,2004-01-01
+2005,"Sao Paulo","Abril",62,2005-01-01
+2006,"Sao Paulo","Abril",63,2006-01-01
+2007,"Sao Paulo","Abril",44,2007-01-01
+2008,"Sao Paulo","Abril",84,2008-01-01
+2009,"Sao Paulo","Abril",67,2009-01-01
+2010,"Sao Paulo","Abril",91,2010-01-01
+2011,"Sao Paulo","Abril",52,2011-01-01
+2012,"Sao Paulo","Abril",82,2012-01-01
+2013,"Sao Paulo","Abril",103,2013-01-01
+2014,"Sao Paulo","Abril",103,2014-01-01
+2015,"Sao Paulo","Abril",76,2015-01-01
+2016,"Sao Paulo","Abril",307,2016-01-01
+2017,"Sao Paulo","Abril",41,2017-01-01
+1998,"Sao Paulo","Maio",0,1998-01-01
+1999,"Sao Paulo","Maio",500,1999-01-01
+2000,"Sao Paulo","Maio",300,2000-01-01
+2001,"Sao Paulo","Maio",211,2001-01-01
+2002,"Sao Paulo","Maio",319,2002-01-01
+2003,"Sao Paulo","Maio",69,2003-01-01
+2004,"Sao Paulo","Maio",60,2004-01-01
+2005,"Sao Paulo","Maio",212,2005-01-01
+2006,"Sao Paulo","Maio",88,2006-01-01
+2007,"Sao Paulo","Maio",69,2007-01-01
+2008,"Sao Paulo","Maio",40,2008-01-01
+2009,"Sao Paulo","Maio",142,2009-01-01
+2010,"Sao Paulo","Maio",150,2010-01-01
+2011,"Sao Paulo","Maio",136,2011-01-01
+2012,"Sao Paulo","Maio",82,2012-01-01
+2013,"Sao Paulo","Maio",118,2013-01-01
+2014,"Sao Paulo","Maio",181,2014-01-01
+2015,"Sao Paulo","Maio",65,2015-01-01
+2016,"Sao Paulo","Maio",139,2016-01-01
+2017,"Sao Paulo","Maio",43,2017-01-01
+1998,"Sao Paulo","Junho",451,1998-01-01
+1999,"Sao Paulo","Junho",522,1999-01-01
+2000,"Sao Paulo","Junho",606,2000-01-01
+2001,"Sao Paulo","Junho",346,2001-01-01
+2002,"Sao Paulo","Junho",562,2002-01-01
+2003,"Sao Paulo","Junho",132,2003-01-01
+2004,"Sao Paulo","Junho",231,2004-01-01
+2005,"Sao Paulo","Junho",236,2005-01-01
+2006,"Sao Paulo","Junho",97,2006-01-01
+2007,"Sao Paulo","Junho",91,2007-01-01
+2008,"Sao Paulo","Junho",25,2008-01-01
+2009,"Sao Paulo","Junho",125,2009-01-01
+2010,"Sao Paulo","Junho",143,2010-01-01
+2011,"Sao Paulo","Junho",210,2011-01-01
+2012,"Sao Paulo","Junho",30,2012-01-01
+2013,"Sao Paulo","Junho",47,2013-01-01
+2014,"Sao Paulo","Junho",331,2014-01-01
+2015,"Sao Paulo","Junho",147,2015-01-01
+2016,"Sao Paulo","Junho",197,2016-01-01
+2017,"Sao Paulo","Junho",217,2017-01-01
+1998,"Sao Paulo","Julho",596,1998-01-01
+1999,"Sao Paulo","Julho",684,1999-01-01
+2000,"Sao Paulo","Julho",770,2000-01-01
+2001,"Sao Paulo","Julho",538,2001-01-01
+2002,"Sao Paulo","Julho",448,2002-01-01
+2003,"Sao Paulo","Julho",171,2003-01-01
+2004,"Sao Paulo","Julho",342,2004-01-01
+2005,"Sao Paulo","Julho",284,2005-01-01
+2006,"Sao Paulo","Julho",245,2006-01-01
+2007,"Sao Paulo","Julho",94,2007-01-01
+2008,"Sao Paulo","Julho",126,2008-01-01
+2009,"Sao Paulo","Julho",110,2009-01-01
+2010,"Sao Paulo","Julho",600,2010-01-01
+2011,"Sao Paulo","Julho",479,2011-01-01
+2012,"Sao Paulo","Julho",179,2012-01-01
+2013,"Sao Paulo","Julho",181,2013-01-01
+2014,"Sao Paulo","Julho",476,2014-01-01
+2015,"Sao Paulo","Julho",149,2015-01-01
+2016,"Sao Paulo","Julho",687,2016-01-01
+2017,"Sao Paulo","Julho",802,2017-01-01
+1998,"Sao Paulo","Agosto",581,1998-01-01
+1999,"Sao Paulo","Agosto",1.211,1999-01-01
+2000,"Sao Paulo","Agosto",915,2000-01-01
+2001,"Sao Paulo","Agosto",595,2001-01-01
+2002,"Sao Paulo","Agosto",719,2002-01-01
+2003,"Sao Paulo","Agosto",934,2003-01-01
+2004,"Sao Paulo","Agosto",794,2004-01-01
+2005,"Sao Paulo","Agosto",522,2005-01-01
+2006,"Sao Paulo","Agosto",572,2006-01-01
+2007,"Sao Paulo","Agosto",470,2007-01-01
+2008,"Sao Paulo","Agosto",153,2008-01-01
+2009,"Sao Paulo","Agosto",289,2009-01-01
+2010,"Sao Paulo","Agosto",1.809,2010-01-01
+2011,"Sao Paulo","Agosto",1.067,2011-01-01
+2012,"Sao Paulo","Agosto",435,2012-01-01
+2013,"Sao Paulo","Agosto",497,2013-01-01
+2014,"Sao Paulo","Agosto",1.458,2014-01-01
+2015,"Sao Paulo","Agosto",643,2015-01-01
+2016,"Sao Paulo","Agosto",797,2016-01-01
+2017,"Sao Paulo","Agosto",981,2017-01-01
+1998,"Sao Paulo","Setembro",525,1998-01-01
+1999,"Sao Paulo","Setembro",911,1999-01-01
+2000,"Sao Paulo","Setembro",582,2000-01-01
+2001,"Sao Paulo","Setembro",425,2001-01-01
+2002,"Sao Paulo","Setembro",302,2002-01-01
+2003,"Sao Paulo","Setembro",977,2003-01-01
+2004,"Sao Paulo","Setembro",809,2004-01-01
+2005,"Sao Paulo","Setembro",231,2005-01-01
+2006,"Sao Paulo","Setembro",694,2006-01-01
+2007,"Sao Paulo","Setembro",495,2007-01-01
+2008,"Sao Paulo","Setembro",486,2008-01-01
+2009,"Sao Paulo","Setembro",116,2009-01-01
+2010,"Sao Paulo","Setembro",1.677,2010-01-01
+2011,"Sao Paulo","Setembro",1.108,2011-01-01
+2012,"Sao Paulo","Setembro",813,2012-01-01
+2013,"Sao Paulo","Setembro",560,2013-01-01
+2014,"Sao Paulo","Setembro",882,2014-01-01
+2015,"Sao Paulo","Setembro",368,2015-01-01
+2016,"Sao Paulo","Setembro",490,2016-01-01
+2017,"Sao Paulo","Setembro",2.868,2017-01-01
+1998,"Sao Paulo","Outubro",434,1998-01-01
+1999,"Sao Paulo","Outubro",763,1999-01-01
+2000,"Sao Paulo","Outubro",647,2000-01-01
+2001,"Sao Paulo","Outubro",444,2001-01-01
+2002,"Sao Paulo","Outubro",733,2002-01-01
+2003,"Sao Paulo","Outubro",422,2003-01-01
+2004,"Sao Paulo","Outubro",195,2004-01-01
+2005,"Sao Paulo","Outubro",221,2005-01-01
+2006,"Sao Paulo","Outubro",153,2006-01-01
+2007,"Sao Paulo","Outubro",281,2007-01-01
+2008,"Sao Paulo","Outubro",87,2008-01-01
+2009,"Sao Paulo","Outubro",64,2009-01-01
+2010,"Sao Paulo","Outubro",260,2010-01-01
+2011,"Sao Paulo","Outubro",188,2011-01-01
+2012,"Sao Paulo","Outubro",206,2012-01-01
+2013,"Sao Paulo","Outubro",127,2013-01-01
+2014,"Sao Paulo","Outubro",887,2014-01-01
+2015,"Sao Paulo","Outubro",213,2015-01-01
+2016,"Sao Paulo","Outubro",177,2016-01-01
+2017,"Sao Paulo","Outubro",179,2017-01-01
+1998,"Sao Paulo","Novembro",488,1998-01-01
+1999,"Sao Paulo","Novembro",398,1999-01-01
+2000,"Sao Paulo","Novembro",96,2000-01-01
+2001,"Sao Paulo","Novembro",168,2001-01-01
+2002,"Sao Paulo","Novembro",72,2002-01-01
+2003,"Sao Paulo","Novembro",155,2003-01-01
+2004,"Sao Paulo","Novembro",144,2004-01-01
+2005,"Sao Paulo","Novembro",163,2005-01-01
+2006,"Sao Paulo","Novembro",43,2006-01-01
+2007,"Sao Paulo","Novembro",50,2007-01-01
+2008,"Sao Paulo","Novembro",20,2008-01-01
+2009,"Sao Paulo","Novembro",83,2009-01-01
+2010,"Sao Paulo","Novembro",104,2010-01-01
+2011,"Sao Paulo","Novembro",87,2011-01-01
+2012,"Sao Paulo","Novembro",50,2012-01-01
+2013,"Sao Paulo","Novembro",120,2013-01-01
+2014,"Sao Paulo","Novembro",56,2014-01-01
+2015,"Sao Paulo","Novembro",21,2015-01-01
+2016,"Sao Paulo","Novembro",39,2016-01-01
+2017,"Sao Paulo","Novembro",37,2017-01-01
+1998,"Sao Paulo","Dezembro",121,1998-01-01
+1999,"Sao Paulo","Dezembro",47,1999-01-01
+2000,"Sao Paulo","Dezembro",23,2000-01-01
+2001,"Sao Paulo","Dezembro",52,2001-01-01
+2002,"Sao Paulo","Dezembro",57,2002-01-01
+2003,"Sao Paulo","Dezembro",58,2003-01-01
+2004,"Sao Paulo","Dezembro",102,2004-01-01
+2005,"Sao Paulo","Dezembro",15,2005-01-01
+2006,"Sao Paulo","Dezembro",13,2006-01-01
+2007,"Sao Paulo","Dezembro",21,2007-01-01
+2008,"Sao Paulo","Dezembro",36,2008-01-01
+2009,"Sao Paulo","Dezembro",37,2009-01-01
+2010,"Sao Paulo","Dezembro",52,2010-01-01
+2011,"Sao Paulo","Dezembro",53,2011-01-01
+2012,"Sao Paulo","Dezembro",64,2012-01-01
+2013,"Sao Paulo","Dezembro",109,2013-01-01
+2014,"Sao Paulo","Dezembro",57,2014-01-01
+2015,"Sao Paulo","Dezembro",45,2015-01-01
+2016,"Sao Paulo","Dezembro",47,2016-01-01
+1998,"Sergipe","Janeiro",0,1998-01-01
+1999,"Sergipe","Janeiro",36,1999-01-01
+2000,"Sergipe","Janeiro",1,2000-01-01
+2001,"Sergipe","Janeiro",2,2001-01-01
+2002,"Sergipe","Janeiro",1,2002-01-01
+2003,"Sergipe","Janeiro",198,2003-01-01
+2004,"Sergipe","Janeiro",16,2004-01-01
+2005,"Sergipe","Janeiro",80,2005-01-01
+2006,"Sergipe","Janeiro",36,2006-01-01
+2007,"Sergipe","Janeiro",56,2007-01-01
+2008,"Sergipe","Janeiro",100,2008-01-01
+2009,"Sergipe","Janeiro",60,2009-01-01
+2010,"Sergipe","Janeiro",29,2010-01-01
+2011,"Sergipe","Janeiro",36,2011-01-01
+2012,"Sergipe","Janeiro",39,2012-01-01
+2013,"Sergipe","Janeiro",34,2013-01-01
+2014,"Sergipe","Janeiro",20,2014-01-01
+2015,"Sergipe","Janeiro",44,2015-01-01
+2016,"Sergipe","Janeiro",9,2016-01-01
+2017,"Sergipe","Janeiro",31,2017-01-01
+1998,"Sergipe","Fevereiro",0,1998-01-01
+1999,"Sergipe","Fevereiro",25,1999-01-01
+2000,"Sergipe","Fevereiro",6,2000-01-01
+2001,"Sergipe","Fevereiro",2,2001-01-01
+2002,"Sergipe","Fevereiro",6,2002-01-01
+2003,"Sergipe","Fevereiro",50,2003-01-01
+2004,"Sergipe","Fevereiro",10,2004-01-01
+2005,"Sergipe","Fevereiro",19,2005-01-01
+2006,"Sergipe","Fevereiro",36,2006-01-01
+2007,"Sergipe","Fevereiro",22,2007-01-01
+2008,"Sergipe","Fevereiro",67,2008-01-01
+2009,"Sergipe","Fevereiro",64,2009-01-01
+2010,"Sergipe","Fevereiro",33,2010-01-01
+2011,"Sergipe","Fevereiro",31,2011-01-01
+2012,"Sergipe","Fevereiro",34,2012-01-01
+2013,"Sergipe","Fevereiro",47,2013-01-01
+2014,"Sergipe","Fevereiro",18,2014-01-01
+2015,"Sergipe","Fevereiro",40,2015-01-01
+2016,"Sergipe","Fevereiro",22,2016-01-01
+2017,"Sergipe","Fevereiro",18,2017-01-01
+1998,"Sergipe","Mar�o",0,1998-01-01
+1999,"Sergipe","Mar�o",18,1999-01-01
+2000,"Sergipe","Mar�o",6,2000-01-01
+2001,"Sergipe","Mar�o",1,2001-01-01
+2002,"Sergipe","Mar�o",7,2002-01-01
+2003,"Sergipe","Mar�o",62,2003-01-01
+2004,"Sergipe","Mar�o",36,2004-01-01
+2005,"Sergipe","Mar�o",28,2005-01-01
+2006,"Sergipe","Mar�o",41,2006-01-01
+2007,"Sergipe","Mar�o",2,2007-01-01
+2008,"Sergipe","Mar�o",43,2008-01-01
+2009,"Sergipe","Mar�o",29,2009-01-01
+2010,"Sergipe","Mar�o",44,2010-01-01
+2011,"Sergipe","Mar�o",47,2011-01-01
+2012,"Sergipe","Mar�o",71,2012-01-01
+2013,"Sergipe","Mar�o",67,2013-01-01
+2014,"Sergipe","Mar�o",33,2014-01-01
+2015,"Sergipe","Mar�o",49,2015-01-01
+2016,"Sergipe","Mar�o",26,2016-01-01
+2017,"Sergipe","Mar�o",16,2017-01-01
+1998,"Sergipe","Abril",0,1998-01-01
+1999,"Sergipe","Abril",6,1999-01-01
+2000,"Sergipe","Abril",1,2000-01-01
+2001,"Sergipe","Abril",0,2001-01-01
+2002,"Sergipe","Abril",12,2002-01-01
+2003,"Sergipe","Abril",48,2003-01-01
+2004,"Sergipe","Abril",13,2004-01-01
+2005,"Sergipe","Abril",8,2005-01-01
+2006,"Sergipe","Abril",9,2006-01-01
+2007,"Sergipe","Abril",1,2007-01-01
+2008,"Sergipe","Abril",2,2008-01-01
+2009,"Sergipe","Abril",19,2009-01-01
+2010,"Sergipe","Abril",1,2010-01-01
+2011,"Sergipe","Abril",12,2011-01-01
+2012,"Sergipe","Abril",40,2012-01-01
+2013,"Sergipe","Abril",15,2013-01-01
+2014,"Sergipe","Abril",7,2014-01-01
+2015,"Sergipe","Abril",35,2015-01-01
+2016,"Sergipe","Abril",14,2016-01-01
+2017,"Sergipe","Abril",8,2017-01-01
+1998,"Sergipe","Maio",0,1998-01-01
+1999,"Sergipe","Maio",0,1999-01-01
+2000,"Sergipe","Maio",0,2000-01-01
+2001,"Sergipe","Maio",3,2001-01-01
+2002,"Sergipe","Maio",0,2002-01-01
+2003,"Sergipe","Maio",2,2003-01-01
+2004,"Sergipe","Maio",5,2004-01-01
+2005,"Sergipe","Maio",0,2005-01-01
+2006,"Sergipe","Maio",0,2006-01-01
+2007,"Sergipe","Maio",0,2007-01-01
+2008,"Sergipe","Maio",0,2008-01-01
+2009,"Sergipe","Maio",0,2009-01-01
+2010,"Sergipe","Maio",0,2010-01-01
+2011,"Sergipe","Maio",0,2011-01-01
+2012,"Sergipe","Maio",17,2012-01-01
+2013,"Sergipe","Maio",1,2013-01-01
+2014,"Sergipe","Maio",1,2014-01-01
+2015,"Sergipe","Maio",11,2015-01-01
+2016,"Sergipe","Maio",9,2016-01-01
+2017,"Sergipe","Maio",1,2017-01-01
+1998,"Sergipe","Junho",0,1998-01-01
+1999,"Sergipe","Junho",0,1999-01-01
+2000,"Sergipe","Junho",0,2000-01-01
+2001,"Sergipe","Junho",0,2001-01-01
+2002,"Sergipe","Junho",0,2002-01-01
+2003,"Sergipe","Junho",0,2003-01-01
+2004,"Sergipe","Junho",0,2004-01-01
+2005,"Sergipe","Junho",0,2005-01-01
+2006,"Sergipe","Junho",0,2006-01-01
+2007,"Sergipe","Junho",0,2007-01-01
+2008,"Sergipe","Junho",0,2008-01-01
+2009,"Sergipe","Junho",2,2009-01-01
+2010,"Sergipe","Junho",0,2010-01-01
+2011,"Sergipe","Junho",1,2011-01-01
+2012,"Sergipe","Junho",3,2012-01-01
+2013,"Sergipe","Junho",1,2013-01-01
+2014,"Sergipe","Junho",0,2014-01-01
+2015,"Sergipe","Junho",3,2015-01-01
+2016,"Sergipe","Junho",1,2016-01-01
+2017,"Sergipe","Junho",0,2017-01-01
+1998,"Sergipe","Julho",0,1998-01-01
+1999,"Sergipe","Julho",0,1999-01-01
+2000,"Sergipe","Julho",0,2000-01-01
+2001,"Sergipe","Julho",0,2001-01-01
+2002,"Sergipe","Julho",0,2002-01-01
+2003,"Sergipe","Julho",0,2003-01-01
+2004,"Sergipe","Julho",0,2004-01-01
+2005,"Sergipe","Julho",0,2005-01-01
+2006,"Sergipe","Julho",0,2006-01-01
+2007,"Sergipe","Julho",0,2007-01-01
+2008,"Sergipe","Julho",0,2008-01-01
+2009,"Sergipe","Julho",0,2009-01-01
+2010,"Sergipe","Julho",0,2010-01-01
+2011,"Sergipe","Julho",0,2011-01-01
+2012,"Sergipe","Julho",1,2012-01-01
+2013,"Sergipe","Julho",0,2013-01-01
+2014,"Sergipe","Julho",0,2014-01-01
+2015,"Sergipe","Julho",0,2015-01-01
+2016,"Sergipe","Julho",0,2016-01-01
+2017,"Sergipe","Julho",0,2017-01-01
+1998,"Sergipe","Agosto",0,1998-01-01
+1999,"Sergipe","Agosto",0,1999-01-01
+2000,"Sergipe","Agosto",0,2000-01-01
+2001,"Sergipe","Agosto",0,2001-01-01
+2002,"Sergipe","Agosto",2,2002-01-01
+2003,"Sergipe","Agosto",0,2003-01-01
+2004,"Sergipe","Agosto",0,2004-01-01
+2005,"Sergipe","Agosto",0,2005-01-01
+2006,"Sergipe","Agosto",0,2006-01-01
+2007,"Sergipe","Agosto",0,2007-01-01
+2008,"Sergipe","Agosto",0,2008-01-01
+2009,"Sergipe","Agosto",0,2009-01-01
+2010,"Sergipe","Agosto",0,2010-01-01
+2011,"Sergipe","Agosto",1,2011-01-01
+2012,"Sergipe","Agosto",0,2012-01-01
+2013,"Sergipe","Agosto",0,2013-01-01
+2014,"Sergipe","Agosto",0,2014-01-01
+2015,"Sergipe","Agosto",0,2015-01-01
+2016,"Sergipe","Agosto",6,2016-01-01
+2017,"Sergipe","Agosto",0,2017-01-01
+1998,"Sergipe","Setembro",0,1998-01-01
+1999,"Sergipe","Setembro",0,1999-01-01
+2000,"Sergipe","Setembro",0,2000-01-01
+2001,"Sergipe","Setembro",1,2001-01-01
+2002,"Sergipe","Setembro",0,2002-01-01
+2003,"Sergipe","Setembro",3,2003-01-01
+2004,"Sergipe","Setembro",0,2004-01-01
+2005,"Sergipe","Setembro",2,2005-01-01
+2006,"Sergipe","Setembro",0,2006-01-01
+2007,"Sergipe","Setembro",0,2007-01-01
+2008,"Sergipe","Setembro",0,2008-01-01
+2009,"Sergipe","Setembro",1,2009-01-01
+2010,"Sergipe","Setembro",0,2010-01-01
+2011,"Sergipe","Setembro",0,2011-01-01
+2012,"Sergipe","Setembro",1,2012-01-01
+2013,"Sergipe","Setembro",1,2013-01-01
+2014,"Sergipe","Setembro",4,2014-01-01
+2015,"Sergipe","Setembro",1,2015-01-01
+2016,"Sergipe","Setembro",2,2016-01-01
+2017,"Sergipe","Setembro",0,2017-01-01
+1998,"Sergipe","Outubro",0,1998-01-01
+1999,"Sergipe","Outubro",0,1999-01-01
+2000,"Sergipe","Outubro",3,2000-01-01
+2001,"Sergipe","Outubro",5,2001-01-01
+2002,"Sergipe","Outubro",20,2002-01-01
+2003,"Sergipe","Outubro",2,2003-01-01
+2004,"Sergipe","Outubro",3,2004-01-01
+2005,"Sergipe","Outubro",11,2005-01-01
+2006,"Sergipe","Outubro",3,2006-01-01
+2007,"Sergipe","Outubro",3,2007-01-01
+2008,"Sergipe","Outubro",0,2008-01-01
+2009,"Sergipe","Outubro",1,2009-01-01
+2010,"Sergipe","Outubro",1,2010-01-01
+2011,"Sergipe","Outubro",5,2011-01-01
+2012,"Sergipe","Outubro",1,2012-01-01
+2013,"Sergipe","Outubro",3,2013-01-01
+2014,"Sergipe","Outubro",3,2014-01-01
+2015,"Sergipe","Outubro",6,2015-01-01
+2016,"Sergipe","Outubro",10,2016-01-01
+2017,"Sergipe","Outubro",0,2017-01-01
+1998,"Sergipe","Novembro",12,1998-01-01
+1999,"Sergipe","Novembro",3,1999-01-01
+2000,"Sergipe","Novembro",0,2000-01-01
+2001,"Sergipe","Novembro",5,2001-01-01
+2002,"Sergipe","Novembro",57,2002-01-01
+2003,"Sergipe","Novembro",2,2003-01-01
+2004,"Sergipe","Novembro",41,2004-01-01
+2005,"Sergipe","Novembro",23,2005-01-01
+2006,"Sergipe","Novembro",5,2006-01-01
+2007,"Sergipe","Novembro",7,2007-01-01
+2008,"Sergipe","Novembro",17,2008-01-01
+2009,"Sergipe","Novembro",9,2009-01-01
+2010,"Sergipe","Novembro",16,2010-01-01
+2011,"Sergipe","Novembro",4,2011-01-01
+2012,"Sergipe","Novembro",6,2012-01-01
+2013,"Sergipe","Novembro",7,2013-01-01
+2014,"Sergipe","Novembro",9,2014-01-01
+2015,"Sergipe","Novembro",47,2015-01-01
+2016,"Sergipe","Novembro",17,2016-01-01
+2017,"Sergipe","Novembro",1,2017-01-01
+1998,"Sergipe","Dezembro",8,1998-01-01
+1999,"Sergipe","Dezembro",5,1999-01-01
+2000,"Sergipe","Dezembro",0,2000-01-01
+2001,"Sergipe","Dezembro",5,2001-01-01
+2002,"Sergipe","Dezembro",103,2002-01-01
+2003,"Sergipe","Dezembro",36,2003-01-01
+2004,"Sergipe","Dezembro",66,2004-01-01
+2005,"Sergipe","Dezembro",29,2005-01-01
+2006,"Sergipe","Dezembro",17,2006-01-01
+2007,"Sergipe","Dezembro",33,2007-01-01
+2008,"Sergipe","Dezembro",14,2008-01-01
+2009,"Sergipe","Dezembro",21,2009-01-01
+2010,"Sergipe","Dezembro",19,2010-01-01
+2011,"Sergipe","Dezembro",36,2011-01-01
+2012,"Sergipe","Dezembro",18,2012-01-01
+2013,"Sergipe","Dezembro",9,2013-01-01
+2014,"Sergipe","Dezembro",9,2014-01-01
+2015,"Sergipe","Dezembro",63,2015-01-01
+2016,"Sergipe","Dezembro",36,2016-01-01
+1998,"Tocantins","Janeiro",0,1998-01-01
+1999,"Tocantins","Janeiro",36,1999-01-01
+2000,"Tocantins","Janeiro",15,2000-01-01
+2001,"Tocantins","Janeiro",19,2001-01-01
+2002,"Tocantins","Janeiro",35,2002-01-01
+2003,"Tocantins","Janeiro",35,2003-01-01
+2004,"Tocantins","Janeiro",40,2004-01-01
+2005,"Tocantins","Janeiro",66,2005-01-01
+2006,"Tocantins","Janeiro",91,2006-01-01
+2007,"Tocantins","Janeiro",34,2007-01-01
+2008,"Tocantins","Janeiro",28,2008-01-01
+2009,"Tocantins","Janeiro",43,2009-01-01
+2010,"Tocantins","Janeiro",79,2010-01-01
+2011,"Tocantins","Janeiro",14,2011-01-01
+2012,"Tocantins","Janeiro",12,2012-01-01
+2013,"Tocantins","Janeiro",50,2013-01-01
+2014,"Tocantins","Janeiro",89,2014-01-01
+2015,"Tocantins","Janeiro",186,2015-01-01
+2016,"Tocantins","Janeiro",42,2016-01-01
+2017,"Tocantins","Janeiro",61,2017-01-01
+1998,"Tocantins","Fevereiro",0,1998-01-01
+1999,"Tocantins","Fevereiro",1,1999-01-01
+2000,"Tocantins","Fevereiro",6,2000-01-01
+2001,"Tocantins","Fevereiro",6,2001-01-01
+2002,"Tocantins","Fevereiro",48,2002-01-01
+2003,"Tocantins","Fevereiro",15,2003-01-01
+2004,"Tocantins","Fevereiro",7,2004-01-01
+2005,"Tocantins","Fevereiro",27,2005-01-01
+2006,"Tocantins","Fevereiro",14,2006-01-01
+2007,"Tocantins","Fevereiro",8,2007-01-01
+2008,"Tocantins","Fevereiro",6,2008-01-01
+2009,"Tocantins","Fevereiro",21,2009-01-01
+2010,"Tocantins","Fevereiro",32,2010-01-01
+2011,"Tocantins","Fevereiro",13,2011-01-01
+2012,"Tocantins","Fevereiro",45,2012-01-01
+2013,"Tocantins","Fevereiro",37,2013-01-01
+2014,"Tocantins","Fevereiro",73,2014-01-01
+2015,"Tocantins","Fevereiro",65,2015-01-01
+2016,"Tocantins","Fevereiro",383,2016-01-01
+2017,"Tocantins","Fevereiro",25,2017-01-01
+1998,"Tocantins","Mar�o",0,1998-01-01
+1999,"Tocantins","Mar�o",1,1999-01-01
+2000,"Tocantins","Mar�o",4,2000-01-01
+2001,"Tocantins","Mar�o",0,2001-01-01
+2002,"Tocantins","Mar�o",33,2002-01-01
+2003,"Tocantins","Mar�o",19,2003-01-01
+2004,"Tocantins","Mar�o",23,2004-01-01
+2005,"Tocantins","Mar�o",13,2005-01-01
+2006,"Tocantins","Mar�o",11,2006-01-01
+2007,"Tocantins","Mar�o",99,2007-01-01
+2008,"Tocantins","Mar�o",4,2008-01-01
+2009,"Tocantins","Mar�o",23,2009-01-01
+2010,"Tocantins","Mar�o",120,2010-01-01
+2011,"Tocantins","Mar�o",16,2011-01-01
+2012,"Tocantins","Mar�o",80,2012-01-01
+2013,"Tocantins","Mar�o",60,2013-01-01
+2014,"Tocantins","Mar�o",58,2014-01-01
+2015,"Tocantins","Mar�o",85,2015-01-01
+2016,"Tocantins","Mar�o",165,2016-01-01
+2017,"Tocantins","Mar�o",98,2017-01-01
+1998,"Tocantins","Abril",0,1998-01-01
+1999,"Tocantins","Abril",9,1999-01-01
+2000,"Tocantins","Abril",0,2000-01-01
+2001,"Tocantins","Abril",19,2001-01-01
+2002,"Tocantins","Abril",37,2002-01-01
+2003,"Tocantins","Abril",64,2003-01-01
+2004,"Tocantins","Abril",52,2004-01-01
+2005,"Tocantins","Abril",52,2005-01-01
+2006,"Tocantins","Abril",4,2006-01-01
+2007,"Tocantins","Abril",22,2007-01-01
+2008,"Tocantins","Abril",46,2008-01-01
+2009,"Tocantins","Abril",5,2009-01-01
+2010,"Tocantins","Abril",419,2010-01-01
+2011,"Tocantins","Abril",106,2011-01-01
+2012,"Tocantins","Abril",226,2012-01-01
+2013,"Tocantins","Abril",130,2013-01-01
+2014,"Tocantins","Abril",187,2014-01-01
+2015,"Tocantins","Abril",88,2015-01-01
+2016,"Tocantins","Abril",369,2016-01-01
+2017,"Tocantins","Abril",164,2017-01-01
+1998,"Tocantins","Maio",0,1998-01-01
+1999,"Tocantins","Maio",24,1999-01-01
+2000,"Tocantins","Maio",69,2000-01-01
+2001,"Tocantins","Maio",48,2001-01-01
+2002,"Tocantins","Maio",138,2002-01-01
+2003,"Tocantins","Maio",96,2003-01-01
+2004,"Tocantins","Maio",350,2004-01-01
+2005,"Tocantins","Maio",236,2005-01-01
+2006,"Tocantins","Maio",35,2006-01-01
+2007,"Tocantins","Maio",250,2007-01-01
+2008,"Tocantins","Maio",81,2008-01-01
+2009,"Tocantins","Maio",91,2009-01-01
+2010,"Tocantins","Maio",580,2010-01-01
+2011,"Tocantins","Maio",354,2011-01-01
+2012,"Tocantins","Maio",467,2012-01-01
+2013,"Tocantins","Maio",373,2013-01-01
+2014,"Tocantins","Maio",618,2014-01-01
+2015,"Tocantins","Maio",512,2015-01-01
+2016,"Tocantins","Maio",778,2016-01-01
+2017,"Tocantins","Maio",576,2017-01-01
+1998,"Tocantins","Junho",252,1998-01-01
+1999,"Tocantins","Junho",113,1999-01-01
+2000,"Tocantins","Junho",278,2000-01-01
+2001,"Tocantins","Junho",305,2001-01-01
+2002,"Tocantins","Junho",396,2002-01-01
+2003,"Tocantins","Junho",329,2003-01-01
+2004,"Tocantins","Junho",1.079,2004-01-01
+2005,"Tocantins","Junho",669,2005-01-01
+2006,"Tocantins","Junho",289,2006-01-01
+2007,"Tocantins","Junho",591,2007-01-01
+2008,"Tocantins","Junho",282,2008-01-01
+2009,"Tocantins","Junho",421,2009-01-01
+2010,"Tocantins","Junho",767,2010-01-01
+2011,"Tocantins","Junho",717,2011-01-01
+2012,"Tocantins","Junho",922,2012-01-01
+2013,"Tocantins","Junho",873,2013-01-01
+2014,"Tocantins","Junho",1.372,2014-01-01
+2015,"Tocantins","Junho",1.15,2015-01-01
+2016,"Tocantins","Junho",1.148,2016-01-01
+2017,"Tocantins","Junho",1.32,2017-01-01
+1998,"Tocantins","Julho",640,1998-01-01
+1999,"Tocantins","Julho",373,1999-01-01
+2000,"Tocantins","Julho",500,2000-01-01
+2001,"Tocantins","Julho",830,2001-01-01
+2002,"Tocantins","Julho",976,2002-01-01
+2003,"Tocantins","Julho",762,2003-01-01
+2004,"Tocantins","Julho",1.389,2004-01-01
+2005,"Tocantins","Julho",1.082,2005-01-01
+2006,"Tocantins","Julho",430,2006-01-01
+2007,"Tocantins","Julho",982,2007-01-01
+2008,"Tocantins","Julho",441,2008-01-01
+2009,"Tocantins","Julho",989,2009-01-01
+2010,"Tocantins","Julho",2.408,2010-01-01
+2011,"Tocantins","Julho",1.001,2011-01-01
+2012,"Tocantins","Julho",1.693,2012-01-01
+2013,"Tocantins","Julho",1.393,2013-01-01
+2014,"Tocantins","Julho",1.404,2014-01-01
+2015,"Tocantins","Julho",1.217,2015-01-01
+2016,"Tocantins","Julho",2.737,2016-01-01
+2017,"Tocantins","Julho",2.397,2017-01-01
+1998,"Tocantins","Agosto",3.747,1998-01-01
+1999,"Tocantins","Agosto",1.284,1999-01-01
+2000,"Tocantins","Agosto",1.949,2000-01-01
+2001,"Tocantins","Agosto",2.242,2001-01-01
+2002,"Tocantins","Agosto",3.027,2002-01-01
+2003,"Tocantins","Agosto",1.339,2003-01-01
+2004,"Tocantins","Agosto",1.776,2004-01-01
+2005,"Tocantins","Agosto",1.84,2005-01-01
+2006,"Tocantins","Agosto",1.277,2006-01-01
+2007,"Tocantins","Agosto",4.747,2007-01-01
+2008,"Tocantins","Agosto",845,2008-01-01
+2009,"Tocantins","Agosto",1.124,2009-01-01
+2010,"Tocantins","Agosto",7.865,2010-01-01
+2011,"Tocantins","Agosto",1.668,2011-01-01
+2012,"Tocantins","Agosto",4.28,2012-01-01
+2013,"Tocantins","Agosto",1.81,2013-01-01
+2014,"Tocantins","Agosto",2.917,2014-01-01
+2015,"Tocantins","Agosto",2.54,2015-01-01
+2016,"Tocantins","Agosto",3.213,2016-01-01
+2017,"Tocantins","Agosto",3.536,2017-01-01
+1998,"Tocantins","Setembro",5.149,1998-01-01
+1999,"Tocantins","Setembro",3.415,1999-01-01
+2000,"Tocantins","Setembro",2.552,2000-01-01
+2001,"Tocantins","Setembro",4.839,2001-01-01
+2002,"Tocantins","Setembro",5.314,2002-01-01
+2003,"Tocantins","Setembro",4.637,2003-01-01
+2004,"Tocantins","Setembro",5.308,2004-01-01
+2005,"Tocantins","Setembro",5.319,2005-01-01
+2006,"Tocantins","Setembro",2.979,2006-01-01
+2007,"Tocantins","Setembro",6.829,2007-01-01
+2008,"Tocantins","Setembro",2.39,2008-01-01
+2009,"Tocantins","Setembro",2.017,2009-01-01
+2010,"Tocantins","Setembro",10.172,2010-01-01
+2011,"Tocantins","Setembro",4.658,2011-01-01
+2012,"Tocantins","Setembro",7.46,2012-01-01
+2013,"Tocantins","Setembro",2.445,2013-01-01
+2014,"Tocantins","Setembro",3.52,2014-01-01
+2015,"Tocantins","Setembro",5.51,2015-01-01
+2016,"Tocantins","Setembro",3.245,2016-01-01
+2017,"Tocantins","Setembro",10.737,2017-01-01
+1998,"Tocantins","Outubro",1.738,1998-01-01
+1999,"Tocantins","Outubro",1.378,1999-01-01
+2000,"Tocantins","Outubro",1.053,2000-01-01
+2001,"Tocantins","Outubro",684,2001-01-01
+2002,"Tocantins","Outubro",1.537,2002-01-01
+2003,"Tocantins","Outubro",1.339,2003-01-01
+2004,"Tocantins","Outubro",1.658,2004-01-01
+2005,"Tocantins","Outubro",2.913,2005-01-01
+2006,"Tocantins","Outubro",1.176,2006-01-01
+2007,"Tocantins","Outubro",2.252,2007-01-01
+2008,"Tocantins","Outubro",2.832,2008-01-01
+2009,"Tocantins","Outubro",718,2009-01-01
+2010,"Tocantins","Outubro",2.272,2010-01-01
+2011,"Tocantins","Outubro",1.591,2011-01-01
+2012,"Tocantins","Outubro",3.68,2012-01-01
+2013,"Tocantins","Outubro",2.155,2013-01-01
+2014,"Tocantins","Outubro",4,2014-01-01
+2015,"Tocantins","Outubro",4.844,2015-01-01
+2016,"Tocantins","Outubro",2.032,2016-01-01
+2017,"Tocantins","Outubro",2.969,2017-01-01
+1998,"Tocantins","Novembro",1,1998-01-01
+1999,"Tocantins","Novembro",29,1999-01-01
+2000,"Tocantins","Novembro",96,2000-01-01
+2001,"Tocantins","Novembro",100,2001-01-01
+2002,"Tocantins","Novembro",207,2002-01-01
+2003,"Tocantins","Novembro",146,2003-01-01
+2004,"Tocantins","Novembro",424,2004-01-01
+2005,"Tocantins","Novembro",271,2005-01-01
+2006,"Tocantins","Novembro",108,2006-01-01
+2007,"Tocantins","Novembro",147,2007-01-01
+2008,"Tocantins","Novembro",104,2008-01-01
+2009,"Tocantins","Novembro",251,2009-01-01
+2010,"Tocantins","Novembro",283,2010-01-01
+2011,"Tocantins","Novembro",144,2011-01-01
+2012,"Tocantins","Novembro",179,2012-01-01
+2013,"Tocantins","Novembro",345,2013-01-01
+2014,"Tocantins","Novembro",451,2014-01-01
+2015,"Tocantins","Novembro",833,2015-01-01
+2016,"Tocantins","Novembro",623,2016-01-01
+2017,"Tocantins","Novembro",434,2017-01-01
+1998,"Tocantins","Dezembro",9,1998-01-01
+1999,"Tocantins","Dezembro",16,1999-01-01
+2000,"Tocantins","Dezembro",20,2000-01-01
+2001,"Tocantins","Dezembro",21,2001-01-01
+2002,"Tocantins","Dezembro",39,2002-01-01
+2003,"Tocantins","Dezembro",109,2003-01-01
+2004,"Tocantins","Dezembro",96,2004-01-01
+2005,"Tocantins","Dezembro",53,2005-01-01
+2006,"Tocantins","Dezembro",15,2006-01-01
+2007,"Tocantins","Dezembro",13,2007-01-01
+2008,"Tocantins","Dezembro",7,2008-01-01
+2009,"Tocantins","Dezembro",46,2009-01-01
+2010,"Tocantins","Dezembro",72,2010-01-01
+2011,"Tocantins","Dezembro",105,2011-01-01
+2012,"Tocantins","Dezembro",128,2012-01-01
+2013,"Tocantins","Dezembro",85,2013-01-01
+2014,"Tocantins","Dezembro",223,2014-01-01
+2015,"Tocantins","Dezembro",373,2015-01-01
+2016,"Tocantins","Dezembro",119,2016-01-01

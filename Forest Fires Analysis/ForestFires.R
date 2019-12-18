@@ -1,4 +1,6 @@
 library(rtweet)
+library(ggplot2)
+library(ggthemes)
 
 # Obtaining and using access tokens
 vignette("auth", package = "rtweet")
@@ -25,7 +27,7 @@ token <- create_token(
 
 #########################################################
 
-setwd("/Users/laurenbannon/Desktop/College/Year 4/Semester 1/Data Application Development/Project/Forest Fires Analysis")
+setwd("/Users/laurenbannon/Desktop/College/Year 4/Semester 1/Data Application Development/Project/Forest Fires Analysis/Forest Fires Analysis")
 
 #amazonian_Tweets <- search_tweets("Amazon Fires", n = 1000, include_rts = FALSE)
 
@@ -37,6 +39,12 @@ amazon_data <- read.csv("amazon.csv", stringsAsFactors = T)
 
 amazon_tweets_data <- read.csv("amazon_tweets.csv", stringsAsFactors = T)
 
+ggplot(amazon_data, aes(month, fill = factor(year))) +
+  geom_bar(stat='count', position='dodge') +
+  facet_grid(.~number) +
+  theme_few()
+
+barplot(table(amazon_data$number))
 #rm(amazon_tweets_df)
 
 
