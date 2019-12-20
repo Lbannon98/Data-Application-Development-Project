@@ -13,20 +13,20 @@ for line in sys.stdin:
 	# remove leading and trailing whitespace
 	line = line.strip()
 	# split data values into list
-	data = line.split(",")
+	data = line.split("\t")
 
 	# convert weight (currently a string) to int
 	try:
-		area = float(data[0])
+		area = float(data[1])
 
 	except ValueError:
 		# ignore/discard this line
 		continue
 
-	month = data[1]
+	month = data[0]
 
 	# add (shellWeight, record) touple to list
-	myList.append( (area, month) )
+	myList.append( (month, line) )
 	# sort list in reverse order
 	myList.sort(reverse=True)
 

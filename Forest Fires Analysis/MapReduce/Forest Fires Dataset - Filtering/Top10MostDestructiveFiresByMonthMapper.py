@@ -27,7 +27,7 @@ for line in sys.stdin:
 
 	if area > 30.0:
                 # add (shellWeight, record) touple to list
-                myList.append( (area, month) )
+                myList.append( (month, area) )
 
 	# sort list in reverse order
 	myList.sort(reverse=True)
@@ -38,4 +38,4 @@ for line in sys.stdin:
 
 # Print top N records
 for (k,v) in myList:
-	print(k, v)
+	print("%s\t%s" % (k,v))
