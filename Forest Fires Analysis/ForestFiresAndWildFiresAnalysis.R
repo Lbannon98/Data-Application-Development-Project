@@ -1,30 +1,18 @@
-library(htmltab)
+install.packages("Cairo")
+library(Cairo)
 library(ggplot2)
 library(ggthemes)
-#library(stringr)
-#library(plyr) 
-#library(dplyr)
 library(mice)
-
-#install.packages("stringr")
+library(plyr)
+library(dplyr)
 
 #########################################################
 
-##  WEB SCRAPING FROM HTML TABLE ON WIKI ##
-##  OUTPUTTING INTO A CSV FILE TO READ IN ##
+##  READING IN DATASET FOR MODIFICATION ##
 
 #########################################################
 
 setwd("/Users/laurenbannon/Desktop/College/Year 4/Semester 1/Data Application Development/Project/Forest Fires Analysis/Forest Fires Analysis")
-
-#url <- "https://en.wikipedia.org/wiki/List_of_California_wildfires"
-
-#most_descructive_fires <- htmltab(doc=url, which = 3)
-
-#write.csv(most_descructive_fires, file = "Datasets/Most_destructive_wildfires.csv")
-
-#Data extracted from HTML table
-#calafornia_wildfires <- read.csv("Datasets/Most_destructive_wildfires.csv", stringsAsFactors = FALSE)
 
 #Dataset downloaded as csv
 amazon_fires <- read.csv("Datasets/amazon.csv", stringsAsFactors = FALSE)
@@ -55,22 +43,18 @@ amazon_fires$month[amazon_fires$month == "Dezembro"] <- "dec"
 summary(amazon_fires$year)
 typeof(amazon_fires$month)
 
-#amazon_fires$state <- str_to_title(amazon_fires$state)
-
 write.csv(amazon_fires, file = "Datasets/Updated Amazon Fires.csv")
 
 updated_amazon_df <- read.csv("Datasets/Updated Amazon Fires.csv", stringsAsFactors = FALSE)
 
 #Cleaning up values - ForestFires.csv
-forest_fires_df <- data.frame(forest_fires$month, forest_fires$temp, forest_fires$wind, forest_fires$rain)
+forest_fires_df <- data.frame(forest_fires$month, forest_fires$temp, forest_fires$wind, forest_fires$rain, forest_fires$area)
 
-forest_fires_df <- rename(forest_fires_df,c("forest_fires.month" = "month", "forest_fires.temp" = "temp","forest_fires.wind" = "wind", "forest_fires.rain" = "rain"))
+forest_fires_df <- rename(forest_fires_df,c("forest_fires.month" = "month", "forest_fires.temp" = "temp","forest_fires.wind" = "wind", "forest_fires.rain" = "rain", "forest_fires.area" = "area"))
 
 write.csv(forest_fires_df, file = "Datasets/Updated Forest Fires.csv")
 
 merged_df <- read.csv("Datasets/Merged Data.csv", stringsAsFactors = FALSE)
-
-mice?
 
 # Advanced option: use mice
 mice_mod <- mice(merged_df[, !names(new_merged_df) %in%
@@ -88,46 +72,53 @@ write.csv(merged_df, file = "Datasets/Amazon & Forest Fires Merged.csv")
 
 ##################################################
 
-# GRAPHS- FOR ANALYSIS #
+# GRAPHS - FOR ANALYSIS #
 
 ##################################################
 
 attach(merged_df)
 
-hist(merged_df$area)
-summary(area)
+# State that is subjected to the highest level of deforestation
+plot1 <- ggplot(merged_df, aes(x = year, y = area)) +
+  geom_point(aes(color = state), size = 3)
 
-ggplot(new_merged_df, aes(year, fill = number)) +
- geom_histogram() +
-  # I include Sex since we know (a priori) it's a significant predictor
-  facet_grid(.~area) +
-  theme_few()
+print(plot1)
 
-#pc1 <- ggplot(merged_df, aes(x = number, y = rain, color = year))
-#pc1 + geom_point()
+pdf(file = "Plots/StateSubjectedToHighestLevelOfDeforestation.pdf", width = 5, height = 5)
+print(plot1)
+dev.off() # Remember to close the device 
 
-hist(merged_df$rain)
+# Commonality of the fires over a one-year period
+filtered_year<- filter(merged_df, year == 2016) 
+plot2 <- ggplot(filtered_year,
+       aes(y = number, x = month)) +
+  geom_point()
 
-summary(merged_df$number)
+print(plot2)
 
-hist(merged_df, 
-     main="Histogram for Merged Data", 
-     xlab="number", 
-     border="blue", 
-     col="red",
-     xlim=c(0,1000),
-     las=1, 
-     breaks=5)
+pdf(file = "Plots/CommonaltiyOfFiresOverYearPeriod.pdf", width = 5, height = 5)
+print(plot2)
+dev.off() # Remember to close the device 
 
-p2 <- ggplot(new_merged_df, aes(x = number, y = month, color = year))
-p2 + geom_histogram()
+#Month subjected to highest level of deforestation - temp
+plot3 <- ggplot(merged_df, aes(x = number, y = temp)) +
+  geom_point(aes(color = month), size = 3)
 
-#rm(df)
+print(plot3)
 
+pdf(file = "Plots/MonthSubjectToHighestLevelOfDeforestation.pdf", width = 5, height = 5)
+print(plot3)
+dev.off() # Remember to close the device 
 
+# Extent of destruction that can be caused in one month alone
+plot4 <- ggplot(merged_df, aes(x=month, y=area)) + 
+  geom_bar(stat="identity")
 
+print(plot4)
 
-
+pdf(file = "Plots/ExtentOfDestructionCausedInOneMonth.pdf", width = 5, height = 5)
+print(plot4)
+dev.off() # Remember to close the device 
 
 
 
