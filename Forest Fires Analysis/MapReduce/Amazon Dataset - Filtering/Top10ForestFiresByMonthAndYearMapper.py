@@ -21,14 +21,15 @@ for line in sys.stdin:
 
 	# convert weight (currently a string) to int
 	try:
-		number = int(data[3])
+		number = int(data[4])
 
 	except ValueError:
 		# ignore/discard this line
 		continue
 
 	# add (weight, record) touple to list
-	myList.append( (number, line) )
+	myList.append( (number, line) )cat output/Top10ForestFiresByMonthAndYearMapper_output.txt | python Top10ForestFiresByMonthAndYearReducer.py
+
 	# sort list in reverse order
 	myList.sort(reverse=True)
 

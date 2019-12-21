@@ -7,7 +7,7 @@ import sys
 
 # Initialise a list to store the top N records as a collection of touples (weight, record)
 myList = []
-n = 15	# Number of top N records
+n = 10	# Number of top N records
 
 for line in sys.stdin:
 	# remove leading and trailing whitespace
