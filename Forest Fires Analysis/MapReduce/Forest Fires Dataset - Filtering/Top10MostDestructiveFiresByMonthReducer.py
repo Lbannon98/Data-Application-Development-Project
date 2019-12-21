@@ -36,4 +36,4 @@ for line in sys.stdin:
 
 # Print top N records
 for (k,v) in myList:
-	print(k, v)
+	print(v)

@@ -17,15 +17,15 @@ for line in sys.stdin:
 
 	# convert weight (currently a string) to int
 	try:
-		area = float(data[12])
+		area = float(data[5])
 
 	except ValueError:
 		# ignore/discard this line
 		continue
 
-	month = data[2]
+	month = data[1]
 
-	if area > 30.0:
+	if area > 50.0:
                 # add (shellWeight, record) touple to list
                 myList.append( (month, area) )
 
