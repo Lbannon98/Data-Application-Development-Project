@@ -1,10 +1,14 @@
 install.packages("Cairo")
+install.packages("conflicted")
 library(Cairo)
 library(ggplot2)
 library(ggthemes)
 library(mice)
 library(plyr)
 library(dplyr)
+library(conflicted)
+
+conflict_prefer("rename", "plyr")
 
 #########################################################
 
