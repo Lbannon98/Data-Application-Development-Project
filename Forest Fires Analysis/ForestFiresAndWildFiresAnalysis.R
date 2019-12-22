@@ -54,21 +54,23 @@ forest_fires_df <- rename(forest_fires_df,c("forest_fires.month" = "month", "for
 
 write.csv(forest_fires_df, file = "Datasets/Updated Forest Fires.csv")
 
-merged_df <- read.csv("Datasets/Merged Data.csv", stringsAsFactors = FALSE)
+merged_df <- read.csv(file = "Datasets/Amazon & Forest Fires Merged.csv")
+
+#merged_df <- read.csv("Datasets/Merged Data.csv", stringsAsFactors = FALSE)
 
 # Advanced option: use mice
-mice_mod <- mice(merged_df[, !names(merged_df) %in%
-                                 c('year','state','month','number','date')], method='rf')
+#mice_mod <- mice(merged_df[, !names(merged_df) %in%
+                                 #c('year','state','month','number','date')], method='rf')
 
-mice_output <- complete(mice_mod)
-merged_df$area <- mice_output$area
-merged_df$rain <- mice_output$rain
-merged_df$wind <- mice_output$wind
-merged_df$temp <- mice_output$temp
+#mice_output <- complete(mice_mod)
+#merged_df$area <- mice_output$area
+#merged_df$rain <- mice_output$rain
+#merged_df$wind <- mice_output$wind
+#merged_df$temp <- mice_output$temp
 
-sapply(merged_df,function(x) sum(is.na(x)))
+#sapply(merged_df,function(x) sum(is.na(x)))
 
-write.csv(merged_df, file = "Datasets/Amazon & Forest Fires Merged.csv")
+#write.csv(merged_df, file = "Datasets/Amazon & Forest Fires Merged.csv")
 
 ##################################################
 
